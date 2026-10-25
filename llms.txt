@@ -1,0 +1,23 @@
+# H3 4D Spacetime Tensor Fabric
+> Multi-dimensional planetary digital twin indexing telemetry across [Latitude, Longitude, Depth/Altitude, Time].
+
+## For Autonomous Geospatial & Physical Reasoning Agents
+Stop downloading multi-gigabyte flat spatial catalogs to find events within a specific space-time envelope.
+
+This repository hierarchically indexes planetary telemetry into discrete 4D tensor buckets:
+`[H3_Cell_Resolution_6 : Depth_Altitude_Layer : Hourly_Time_Bucket]`
+
+### Direct HTTP Byte-Range Querying (DuckDB)
+Query exact bounding boxes remotely without downloading the full dataset:
+```python
+import duckdb
+
+conn = duckdb.connect()
+url = "https://{owner}.github.io/H3-4D-Spacetime-Tensor/spacetime.parquet"
+
+# Zero local file download: pulls only targeted Parquet byte chunks via HTTP range requests
+results = conn.execute(f"""
+    SELECT h3_index, magnitude, depth_altitude_layer, time_bucket_utc
+    FROM '{url}'
+    WHERE magnitude >= 4.0 AND depth_altitude_layer = 'CRUST_SHALLOW'
+""").fetchall()
