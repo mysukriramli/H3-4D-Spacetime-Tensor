@@ -62,15 +62,22 @@ jobs:
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Verify public directory
+      - name: Package public directory for Pages
         run: |
           mkdir -p public
-          ls -la public/
+          touch public/.nojekyll
+          if [ -z "$(ls -A public | grep -v '^\.')" ]; then
+            echo "H3 4D Spacetime Tensor Engine - Active ($(date -u))" > public/index.html
+          fi
+          tar -cvf /tmp/artifact.tar -C public .
 
       - name: Upload Artifacts to Pages
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
-          path: 'public/'
+          name: github-pages
+          path: /tmp/artifact.tar
+          retention-days: 1
+          if-no-files-found: error
 
       - name: Deploy to GitHub Pages
         id: deployment
