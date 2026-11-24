@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-11-24T05:57:36.662304+00:00",
+    "updated_at": "2026-11-24T06:11:58.578910+00:00",
     "count": 766
   },
   "high_impact_cells": [
@@ -90,12 +90,12 @@
       "time_bucket_utc": "2026-11-24T00:00:00Z",
       "event_type": "earthquake",
       "magnitude": 3.9,
-      "content_hash": "c6112591d97b92a43ba4f58688e9f9c0a35c4b21505b5e8afce49609501c5156",
+      "content_hash": "e20c6b7a1f680d344cfd097d0a4c7aaf090ff5e60ed524ed2b4f3b6d73b79aae",
       "observed_at_utc": "2026-11-24T00:09:57.793000+00:00",
       "feature_vector": [
         3.9,
         10.48,
-        306,
+        307,
         0.5
       ]
     },
