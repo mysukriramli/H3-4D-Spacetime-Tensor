@@ -1,25 +1,25 @@
 # H3 4D Spacetime Tensor Fabric
-> Last Sync: 2026-11-26T00:29:40.464539+00:00 UTC
+> Last Sync: 2026-11-26T13:58:37.364843+00:00 UTC
 > Metric: 4D Spacetime Bins [H3_Resolution_6 : Vertical_Layer : Time_Bucket : Feature_Vector]
 
 ## Top Active 4D Coordinate Cells
+- **`866d7005fffffff:CRUST_MID:2026-11-26T12:00:00Z`** (M4.4 | CRUST_MID): Coords (12.6963, -89.7824) | Vector: `[4.4, 50.69, 298, 0.85]`
+- **`869b7625fffffff:MANTLE_DEEP:2026-11-26T09:00:00Z`** (M5.2 | MANTLE_DEEP): Coords (-20.5363, -177.7629) | Vector: `[5.2, 493.86, 416, 0.91]`
+- **`8695a338fffffff:CRUST_MID:2026-11-26T09:00:00Z`** (M5.5 | CRUST_MID): Coords (-10.5618, 117.1955) | Vector: `[5.5, 15.14, 465, 0.87]`
+- **`8695a375fffffff:CRUST_SHALLOW:2026-11-26T09:00:00Z`** (M4.8 | CRUST_SHALLOW): Coords (-10.773, 117.1007) | Vector: `[4.8, 10.0, 354, 0.82]`
+- **`8629a6907ffffff:CRUST_MID:2026-11-26T07:00:00Z`** (M3.6 | CRUST_MID): Coords (32.8728, -116.2247) | Vector: `[3.58, 10.63, 280, 0.27]`
+- **`86620215fffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z`** (M4.4 | CRUST_SHALLOW): Coords (9.8196, 57.8378) | Vector: `[4.4, 10.0, 298, 0.47]`
+- **`86d842a77ffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z`** (M4.4 | CRUST_SHALLOW): Coords (-48.7996, 123.8744) | Vector: `[4.4, 10.0, 298, 0.81]`
+- **`866d0132fffffff:CRUST_SHALLOW:2026-11-26T03:00:00Z`** (M4.6 | CRUST_SHALLOW): Coords (14.164, -93.126) | Vector: `[4.6, 10.0, 326, 0.91]`
+- **`8622c4027ffffff:CRUST_SHALLOW:2026-11-26T02:00:00Z`** (M3.7 | CRUST_SHALLOW): Coords (52.071, -169.812) | Vector: `[3.7, 3.9, 211, 0.9]`
+- **`86165ab17ffffff:CRUST_MID:2026-11-26T02:00:00Z`** (M4.3 | CRUST_MID): Coords (51.5804, 176.7852) | Vector: `[4.3, 37.22, 284, 1.06]`
+- **`86ba2064fffffff:CRUST_SHALLOW:2026-11-26T02:00:00Z`** (M5.0 | CRUST_SHALLOW): Coords (-35.934, 178.26) | Vector: `[5.0, 10.0, 385, 0.87]`
+- **`86ba20687ffffff:CRUST_MID:2026-11-26T01:00:00Z`** (M5.2 | CRUST_MID): Coords (-35.9665, 178.6429) | Vector: `[5.2, 12.69, 416, 1.09]`
+- **`869b5521fffffff:MANTLE_DEEP:2026-11-26T01:00:00Z`** (M4.4 | MANTLE_DEEP): Coords (-17.9154, -178.5923) | Vector: `[4.4, 584.49, 298, 0.65]`
 - **`86ba206d7ffffff:CRUST_SHALLOW:2026-11-25T21:00:00Z`** (M4.8 | CRUST_SHALLOW): Coords (-35.8989, 178.5511) | Vector: `[4.8, 10.0, 354, 0.42]`
-- **`869e226a7ffffff:CRUST_MID:2026-11-25T18:00:00Z`** (M4.7 | CRUST_MID): Coords (-17.6508, 168.224) | Vector: `[4.7, 51.54, 340, 0.87]`
+- **`869e226a7ffffff:CRUST_MID:2026-11-25T18:00:00Z`** (M4.7 | CRUST_MID): Coords (-17.6508, 168.224) | Vector: `[4.7, 51.54, 341, 0.87]`
 - **`863f2c15fffffff:CRUST_MID:2026-11-25T18:00:00Z`** (M4.4 | CRUST_MID): Coords (38.4121, 20.6921) | Vector: `[4.4, 49.97, 298, 0.83]`
 - **`8622f3a0fffffff:CRUST_MID:2026-11-25T17:00:00Z`** (M3.6 | CRUST_MID): Coords (52.345, -167.676) | Vector: `[3.6, 17.5, 199, 0.8]`
-- **`86228b62fffffff:CRUST_MID:2026-11-25T13:00:00Z`** (M4.3 | CRUST_MID): Coords (53.6824, -163.0363) | Vector: `[4.3, 36.87, 284, 0.79]`
-- **`8668dc2cfffffff:MANTLE_TRANSITION:2026-11-25T12:00:00Z`** (M5.0 | MANTLE_TRANSITION): Coords (-0.3849, 123.0018) | Vector: `[5.0, 106.38, 385, 0.79]`
-- **`864bae02fffffff:CRUST_MID:2026-11-25T10:00:00Z`** (M4.3 | CRUST_MID): Coords (24.3005, 122.9622) | Vector: `[4.3, 46.91, 284, 0.55]`
-- **`864919af7ffffff:CRUST_SHALLOW:2026-11-25T10:00:00Z`** (M4.2 | CRUST_SHALLOW): Coords (19.8382, -108.946) | Vector: `[4.2, 10.0, 271, 0.84]`
-- **`862f69517ffffff:MANTLE_DEEP:2026-11-25T09:00:00Z`** (M4.2 | MANTLE_DEEP): Coords (29.9916, 138.7805) | Vector: `[4.2, 432.46, 271, 0.54]`
-- **`860cd8487ffffff:MANTLE_TRANSITION:2026-11-25T09:00:00Z`** (M3.7 | MANTLE_TRANSITION): Coords (54.716, -162.85) | Vector: `[3.7, 77.0, 211, 0.7]`
-- **`864b8628fffffff:CRUST_SHALLOW:2026-11-25T08:00:00Z`** (M5.3 | CRUST_SHALLOW): Coords (21.8162, 121.5241) | Vector: `[5.3, 10.0, 432, 1.06]`
-- **`86268b0c7ffffff:CRUST_SHALLOW:2026-11-25T07:00:00Z`** (M4.1 | CRUST_SHALLOW): Coords (36.9498, -104.8395) | Vector: `[4.1, 5.0, 275, 0.76]`
-- **`86ba20677ffffff:CRUST_MID:2026-11-25T06:00:00Z`** (M5.2 | CRUST_MID): Coords (-36.0191, 178.3688) | Vector: `[5.2, 25.33, 416, 1.04]`
-- **`8676b6c8fffffff:CRUST_SHALLOW:2026-11-25T04:00:00Z`** (M4.7 | CRUST_SHALLOW): Coords (-6.3544, 151.5376) | Vector: `[4.7, 10.0, 340, 0.68]`
-- **`864cd5b4fffffff:MANTLE_TRANSITION:2026-11-25T02:00:00Z`** (M3.8 | MANTLE_TRANSITION): Coords (18.2883, -68.8096) | Vector: `[3.76, 126.0, 218, 0.44]`
-- **`86ea9a027ffffff:CRUST_SHALLOW:2026-11-25T01:00:00Z`** (M5.9 | CRUST_SHALLOW): Coords (-63.0918, 170.9371) | Vector: `[5.9, 10.0, 536, 1.31]`
-- **`8625b6a8fffffff:CRUST_SHALLOW:2026-11-25T01:00:00Z`** (M4.3 | CRUST_SHALLOW): Coords (43.7, 85.7992) | Vector: `[4.3, 10.0, 284, 0.86]`
 - **`860cc371fffffff:MANTLE_TRANSITION:2026-11-23T20:00:00Z`** (M3.7 | MANTLE_TRANSITION): Coords (56.091, -160.7) | Vector: `[3.7, 188.6, 211, 1.1]`
 - **`8622c4497ffffff:CRUST_SHALLOW:2026-11-23T20:00:00Z`** (M4.4 | CRUST_SHALLOW): Coords (52.382, -169.05) | Vector: `[4.4, 0.0, 298, 1.5]`
 - **`869b723a7ffffff:MANTLE_DEEP:2026-11-23T17:00:00Z`** (M4.2 | MANTLE_DEEP): Coords (-19.6491, -177.5188) | Vector: `[4.2, 415.05, 271, 0.76]`
