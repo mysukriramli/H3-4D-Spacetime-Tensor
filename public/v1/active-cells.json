@@ -1,9 +1,1814 @@
 {
   "metadata": {
-    "updated_at": "2026-11-27T00:39:23.411544+00:00",
-    "count": 6564
+    "updated_at": "2026-11-27T13:57:28.448274+00:00",
+    "count": 6536
   },
   "tensor_cells": [
+    {
+      "tensor_coord": "86298c867ffffff:ATMOSPHERE_LOW:2026-11-27T13:00:00Z",
+      "h3_index": "86298c867ffffff",
+      "resolution": 6,
+      "latitude": 37.4627,
+      "longitude": -118.846,
+      "depth_altitude_layer": "ATMOSPHERE_LOW",
+      "time_bucket_utc": "2026-11-27T13:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.48,
+      "content_hash": "d53a608f7ff079ba29c5e69d9665f255c77137f0aaf2646997549edcd535fe35",
+      "observed_at_utc": "2026-11-27T13:52:56.210000+00:00",
+      "feature_vector": [
+        1.48,
+        -0.85,
+        34,
+        0.04
+      ]
+    },
+    {
+      "tensor_coord": "86283141fffffff:CRUST_SHALLOW:2026-11-27T13:00:00Z",
+      "h3_index": "86283141fffffff",
+      "resolution": 6,
+      "latitude": 38.8413,
+      "longitude": -122.8767,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T13:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.75,
+      "content_hash": "5a13e962bd99b345d1d6fd5e2176559b6eaab2d6abd95bac69685945d41af8df",
+      "observed_at_utc": "2026-11-27T13:41:22.700000+00:00",
+      "feature_vector": [
+        0.75,
+        2.68,
+        9,
+        0.02
+      ]
+    },
+    {
+      "tensor_coord": "860c54c47ffffff:CRUST_SHALLOW:2026-11-27T13:00:00Z",
+      "h3_index": "860c54c47ffffff",
+      "resolution": 6,
+      "latitude": 61.256,
+      "longitude": -152.302,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T13:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.6,
+      "content_hash": "5f7380641d52390d794464edebbc4c82c63f8ecbc65cfbb883ac462616cdf5b6",
+      "observed_at_utc": "2026-11-27T13:36:36.626000+00:00",
+      "feature_vector": [
+        0.6,
+        4.5,
+        6,
+        0.1
+      ]
+    },
+    {
+      "tensor_coord": "860c5ec9fffffff:CRUST_MID:2026-11-27T13:00:00Z",
+      "h3_index": "860c5ec9fffffff",
+      "resolution": 6,
+      "latitude": 58.704,
+      "longitude": -152.196,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T13:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.6,
+      "content_hash": "e9820489eba42307b2ea2b652a2671054972baa9d076155ce0048a65a1250f05",
+      "observed_at_utc": "2026-11-27T13:29:14.854000+00:00",
+      "feature_vector": [
+        2.6,
+        49.2,
+        104,
+        0.8
+      ]
+    },
+    {
+      "tensor_coord": "860cec647ffffff:CRUST_SHALLOW:2026-11-27T13:00:00Z",
+      "h3_index": "860cec647ffffff",
+      "resolution": 6,
+      "latitude": 58.285,
+      "longitude": -154.978,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T13:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.1,
+      "content_hash": "ea1b65597ec5a0899610de795b1e07d7a2f3bd6b87c618363c20bb61475daf58",
+      "observed_at_utc": "2026-11-27T13:27:32.210000+00:00",
+      "feature_vector": [
+        1.1,
+        5.0,
+        19,
+        0.2
+      ]
+    },
+    {
+      "tensor_coord": "862800717ffffff:CRUST_MID:2026-11-27T13:00:00Z",
+      "h3_index": "862800717ffffff",
+      "resolution": 6,
+      "latitude": 40.4043,
+      "longitude": -124.5547,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T13:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.15,
+      "content_hash": "1f592766bc800802f1742fb9d58bb166916c95815c726ba57807efc4d4e7feff",
+      "observed_at_utc": "2026-11-27T13:21:25.590000+00:00",
+      "feature_vector": [
+        2.15,
+        20.71,
+        71,
+        0.1
+      ]
+    },
+    {
+      "tensor_coord": "8629a0db7ffffff:CRUST_SHALLOW:2026-11-27T13:00:00Z",
+      "h3_index": "8629a0db7ffffff",
+      "resolution": 6,
+      "latitude": 33.5337,
+      "longitude": -116.7083,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T13:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.69,
+      "content_hash": "7803dbc5c91c6a5a78ee3ae2f337506ada20f8a3c8edeea1135f7c7fd59bb2fc",
+      "observed_at_utc": "2026-11-27T13:10:19.240000+00:00",
+      "feature_vector": [
+        0.69,
+        6.67,
+        7,
+        0.16
+      ]
+    },
+    {
+      "tensor_coord": "862988247ffffff:CRUST_MID:2026-11-27T13:00:00Z",
+      "h3_index": "862988247ffffff",
+      "resolution": 6,
+      "latitude": 39.3435,
+      "longitude": -119.0879,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T13:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.62,
+      "content_hash": "ebe8426883be818e5db4fabc6d4f8bd8430e38872212fd34d37e8c4ead349699",
+      "observed_at_utc": "2026-11-27T13:03:54.488000+00:00",
+      "feature_vector": [
+        1.62,
+        11.61,
+        40,
+        0.122
+      ]
+    },
+    {
+      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-27T12:00:00Z",
+      "h3_index": "8628314afffffff",
+      "resolution": 6,
+      "latitude": 38.8358,
+      "longitude": -122.8083,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.71,
+      "content_hash": "83b196c88afc441881d93651a9651308107df954d42638aa278e91083bc6851c",
+      "observed_at_utc": "2026-11-27T12:57:13.320000+00:00",
+      "feature_vector": [
+        0.71,
+        2.36,
+        8,
+        0.01
+      ]
+    },
+    {
+      "tensor_coord": "860c688f7ffffff:CRUST_MID:2026-11-27T12:00:00Z",
+      "h3_index": "860c688f7ffffff",
+      "resolution": 6,
+      "latitude": 60.202,
+      "longitude": -141.486,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.5,
+      "content_hash": "f74c1948a2559c214b6e8db924d3c3c8d69da4d08301201cac868b0a44245cab",
+      "observed_at_utc": "2026-11-27T12:56:24.051000+00:00",
+      "feature_vector": [
+        1.5,
+        10.8,
+        35,
+        0.5
+      ]
+    },
+    {
+      "tensor_coord": "869b0b7a7ffffff:MANTLE_TRANSITION:2026-11-27T12:00:00Z",
+      "h3_index": "869b0b7a7ffffff",
+      "resolution": 6,
+      "latitude": -18.3294,
+      "longitude": -175.1805,
+      "depth_altitude_layer": "MANTLE_TRANSITION",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 4.5,
+      "content_hash": "5b5a0f29ab8f34351c079e2e538f7358d4101b4dd88fc3a3724e693a88df7d05",
+      "observed_at_utc": "2026-11-27T12:48:16.841000+00:00",
+      "feature_vector": [
+        4.5,
+        271.6,
+        312,
+        0.53
+      ]
+    },
+    {
+      "tensor_coord": "865d11507ffffff:CRUST_MID:2026-11-27T12:00:00Z",
+      "h3_index": "865d11507ffffff",
+      "resolution": 6,
+      "latitude": 19.702,
+      "longitude": -154.9977,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.0,
+      "content_hash": "d8bffa3ca52f57e7439e835fb623bb2e1cadecc6325d9a952ace231a46c2791a",
+      "observed_at_utc": "2026-11-27T12:45:59.250000+00:00",
+      "feature_vector": [
+        2.0,
+        42.21,
+        62,
+        0.13
+      ]
+    },
+    {
+      "tensor_coord": "860c76047ffffff:MANTLE_TRANSITION:2026-11-27T12:00:00Z",
+      "h3_index": "860c76047ffffff",
+      "resolution": 6,
+      "latitude": 62.947,
+      "longitude": -150.836,
+      "depth_altitude_layer": "MANTLE_TRANSITION",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.2,
+      "content_hash": "dd118f64ab85ae0da7136301a7cc8b95b32abb54a94a534c9c31254aa8108ea3",
+      "observed_at_utc": "2026-11-27T12:41:36.539000+00:00",
+      "feature_vector": [
+        2.2,
+        114.0,
+        74,
+        0.6
+      ]
+    },
+    {
+      "tensor_coord": "8629a688fffffff:CRUST_SHALLOW:2026-11-27T12:00:00Z",
+      "h3_index": "8629a688fffffff",
+      "resolution": 6,
+      "latitude": 33.1647,
+      "longitude": -116.1073,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.47,
+      "content_hash": "c0539d30318e29bfc857df12d3f89bead79318a9b859051af60bc43cdb6a8d06",
+      "observed_at_utc": "2026-11-27T12:36:58.990000+00:00",
+      "feature_vector": [
+        1.47,
+        9.13,
+        33,
+        0.24
+      ]
+    },
+    {
+      "tensor_coord": "860c53aafffffff:MANTLE_TRANSITION:2026-11-27T12:00:00Z",
+      "h3_index": "860c53aafffffff",
+      "resolution": 6,
+      "latitude": 59.058,
+      "longitude": -152.427,
+      "depth_altitude_layer": "MANTLE_TRANSITION",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.2,
+      "content_hash": "830d5d4c481d0e40690d51442d0b875a70a1ec102b2c18a1db31ef4cf00d6db6",
+      "observed_at_utc": "2026-11-27T12:25:55.329000+00:00",
+      "feature_vector": [
+        2.2,
+        75.9,
+        74,
+        0.5
+      ]
+    },
+    {
+      "tensor_coord": "862831487ffffff:CRUST_SHALLOW:2026-11-27T12:00:00Z",
+      "h3_index": "862831487ffffff",
+      "resolution": 6,
+      "latitude": 38.8237,
+      "longitude": -122.764,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.75,
+      "content_hash": "24674baf933a6c374b0e11fd610cfc28d3e4aa84b02d35bf4c73a39d32a680f5",
+      "observed_at_utc": "2026-11-27T12:21:21.410000+00:00",
+      "feature_vector": [
+        0.75,
+        2.11,
+        9,
+        0.02
+      ]
+    },
+    {
+      "tensor_coord": "862985867ffffff:CRUST_SHALLOW:2026-11-27T12:00:00Z",
+      "h3_index": "862985867ffffff",
+      "resolution": 6,
+      "latitude": 35.8275,
+      "longitude": -117.6685,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.9,
+      "content_hash": "a408c6966193eb4754e213694e276629197908b7d3eef95915207780b0d0e4f7",
+      "observed_at_utc": "2026-11-27T12:19:45.900000+00:00",
+      "feature_vector": [
+        2.9,
+        5.99,
+        130,
+        0.16
+      ]
+    },
+    {
+      "tensor_coord": "865d1381fffffff:CRUST_MID:2026-11-27T12:00:00Z",
+      "h3_index": "865d1381fffffff",
+      "resolution": 6,
+      "latitude": 19.2873,
+      "longitude": -155.4115,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.9,
+      "content_hash": "a9fc61fb10702e467ee080e1d41560131716e27c25880e67fad3fd8efb835cb4",
+      "observed_at_utc": "2026-11-27T12:18:54.400000+00:00",
+      "feature_vector": [
+        1.9,
+        29.57,
+        56,
+        0.15
+      ]
+    },
+    {
+      "tensor_coord": "8629a2227ffffff:CRUST_SHALLOW:2026-11-27T12:00:00Z",
+      "h3_index": "8629a2227ffffff",
+      "resolution": 6,
+      "latitude": 34.85,
+      "longitude": -116.4033,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.3,
+      "content_hash": "bbf0e918cdadb970f40c3dc97d7f6deb1bdac44f218a9f34e326d32d33e8cd1b",
+      "observed_at_utc": "2026-11-27T12:14:12.450000+00:00",
+      "feature_vector": [
+        1.3,
+        1.91,
+        26,
+        0.15
+      ]
+    },
+    {
+      "tensor_coord": "8629a3347ffffff:CRUST_SHALLOW:2026-11-27T12:00:00Z",
+      "h3_index": "8629a3347ffffff",
+      "resolution": 6,
+      "latitude": 35.3097,
+      "longitude": -117.7997,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.09,
+      "content_hash": "e653b6d7d0a108b127a327c0bc2544a7eb2928686df984dc23630fe4638fa07d",
+      "observed_at_utc": "2026-11-27T12:14:08.300000+00:00",
+      "feature_vector": [
+        1.09,
+        6.61,
+        18,
+        0.2
+      ]
+    },
+    {
+      "tensor_coord": "864cc495fffffff:CRUST_SHALLOW:2026-11-27T12:00:00Z",
+      "h3_index": "864cc495fffffff",
+      "resolution": 6,
+      "latitude": 19.1303,
+      "longitude": -67.2811,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 3.52,
+      "content_hash": "1c6dbf843b87278a37dfd86979b3d46c89ba459540b30befb4159c6295c520fd",
+      "observed_at_utc": "2026-11-27T12:07:32.020000+00:00",
+      "feature_vector": [
+        3.52,
+        9.0,
+        191,
+        0.48
+      ]
+    },
+    {
+      "tensor_coord": "860c50a37ffffff:MANTLE_TRANSITION:2026-11-27T12:00:00Z",
+      "h3_index": "860c50a37ffffff",
+      "resolution": 6,
+      "latitude": 60.162,
+      "longitude": -151.859,
+      "depth_altitude_layer": "MANTLE_TRANSITION",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.2,
+      "content_hash": "0238695591a6da9ea2d4b4eaba1c0f489cdaf2be25e16ac8540a423e23e3ae60",
+      "observed_at_utc": "2026-11-27T12:06:15.237000+00:00",
+      "feature_vector": [
+        2.2,
+        77.3,
+        75,
+        0.6
+      ]
+    },
+    {
+      "tensor_coord": "8628346dfffffff:CRUST_SHALLOW:2026-11-27T12:00:00Z",
+      "h3_index": "8628346dfffffff",
+      "resolution": 6,
+      "latitude": 37.7328,
+      "longitude": -121.941,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T12:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.4,
+      "content_hash": "ac2b5f7ef3a5cf920c728a5fecaaf41345f18946876178ec521cc4cb78b02016",
+      "observed_at_utc": "2026-11-27T12:03:38.440000+00:00",
+      "feature_vector": [
+        1.4,
+        9.85,
+        30,
+        0.08
+      ]
+    },
+    {
+      "tensor_coord": "86298c877ffffff:ATMOSPHERE_LOW:2026-11-27T11:00:00Z",
+      "h3_index": "86298c877ffffff",
+      "resolution": 6,
+      "latitude": 37.463,
+      "longitude": -118.8425,
+      "depth_altitude_layer": "ATMOSPHERE_LOW",
+      "time_bucket_utc": "2026-11-27T11:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.94,
+      "content_hash": "a6ce57ec6ff491d7f0c20f12e91848985885cc511c89d6dbc8023508523e4bd9",
+      "observed_at_utc": "2026-11-27T11:42:30.920000+00:00",
+      "feature_vector": [
+        1.94,
+        -0.06,
+        58,
+        0.05
+      ]
+    },
+    {
+      "tensor_coord": "8628347b7ffffff:CRUST_SHALLOW:2026-11-27T11:00:00Z",
+      "h3_index": "8628347b7ffffff",
+      "resolution": 6,
+      "latitude": 37.4013,
+      "longitude": -121.7532,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T11:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.22,
+      "content_hash": "92368178c50879a4b9cb75605e181dc003162e4a0ca85d0fec80e9fccd347f36",
+      "observed_at_utc": "2026-11-27T11:39:36.540000+00:00",
+      "feature_vector": [
+        1.22,
+        5.19,
+        23,
+        0.01
+      ]
+    },
+    {
+      "tensor_coord": "86298cb1fffffff:ATMOSPHERE_LOW:2026-11-27T11:00:00Z",
+      "h3_index": "86298cb1fffffff",
+      "resolution": 6,
+      "latitude": 37.6462,
+      "longitude": -119.0225,
+      "depth_altitude_layer": "ATMOSPHERE_LOW",
+      "time_bucket_utc": "2026-11-27T11:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.73,
+      "content_hash": "8274fdb9230f47c0454fb0dfd335a9e1f3fd7040c5a751e7f85dc5e453a742b5",
+      "observed_at_utc": "2026-11-27T11:33:42.730000+00:00",
+      "feature_vector": [
+        1.73,
+        -1.38,
+        46,
+        0.04
+      ]
+    },
+    {
+      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-27T11:00:00Z",
+      "h3_index": "8628314afffffff",
+      "resolution": 6,
+      "latitude": 38.8158,
+      "longitude": -122.8175,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T11:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.82,
+      "content_hash": "1a9301359b7fe75fd0e26e8951f240341ae4fed7d0cff307146f5be07445e716",
+      "observed_at_utc": "2026-11-27T11:32:15.450000+00:00",
+      "feature_vector": [
+        1.82,
+        2.3,
+        51,
+        0.03
+      ]
+    },
+    {
+      "tensor_coord": "8628314a7ffffff:CRUST_SHALLOW:2026-11-27T11:00:00Z",
+      "h3_index": "8628314a7ffffff",
+      "resolution": 6,
+      "latitude": 38.7907,
+      "longitude": -122.768,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T11:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.05,
+      "content_hash": "62251f4a0c5f0019b8c97a35aad88ef9dda072cb4667d636ec662fbae89b1639",
+      "observed_at_utc": "2026-11-27T11:16:08.550000+00:00",
+      "feature_vector": [
+        1.05,
+        1.91,
+        17,
+        0.02
+      ]
+    },
+    {
+      "tensor_coord": "860c7388fffffff:CRUST_MID:2026-11-27T11:00:00Z",
+      "h3_index": "860c7388fffffff",
+      "resolution": 6,
+      "latitude": 61.63,
+      "longitude": -149.855,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T11:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.7,
+      "content_hash": "2372466ff51d92bf1af78f2e951b86f5993a2e52269e150fe890fe134603db1b",
+      "observed_at_utc": "2026-11-27T11:04:45.793000+00:00",
+      "feature_vector": [
+        1.7,
+        16.3,
+        44,
+        0.7
+      ]
+    },
+    {
+      "tensor_coord": "860c40cb7ffffff:CRUST_MID:2026-11-27T11:00:00Z",
+      "h3_index": "860c40cb7ffffff",
+      "resolution": 6,
+      "latitude": 60.451,
+      "longitude": -147.814,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T11:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.4,
+      "content_hash": "28f52a5eb49449e1d65cf7263ae00137183c34eac7cf86bfebe8868c5a40dc92",
+      "observed_at_utc": "2026-11-27T11:02:43.089000+00:00",
+      "feature_vector": [
+        1.4,
+        13.9,
+        30,
+        0.2
+      ]
+    },
+    {
+      "tensor_coord": "8616acc87ffffff:CRUST_MID:2026-11-27T11:00:00Z",
+      "h3_index": "8616acc87ffffff",
+      "resolution": 6,
+      "latitude": 51.3928,
+      "longitude": 159.3662,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T11:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 4.8,
+      "content_hash": "23158945780a29a9d8046dd97fbf5fc125174bfc0c904efef9f02456d9ac8f70",
+      "observed_at_utc": "2026-11-27T11:02:25.335000+00:00",
+      "feature_vector": [
+        4.8,
+        35.49,
+        354,
+        0.81
+      ]
+    },
+    {
+      "tensor_coord": "8648d6847ffffff:CRUST_SHALLOW:2026-11-27T10:00:00Z",
+      "h3_index": "8648d6847ffffff",
+      "resolution": 6,
+      "latitude": 32.023,
+      "longitude": -103.283,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T10:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.9,
+      "content_hash": "8b951032649581264574adca44257cdc2051d0c59d0804c770497acd5c6ee906",
+      "observed_at_utc": "2026-11-27T10:41:43.145000+00:00",
+      "feature_vector": [
+        1.9,
+        6.77,
+        56,
+        0.2
+      ]
+    },
+    {
+      "tensor_coord": "860c44d77ffffff:CRUST_MID:2026-11-27T10:00:00Z",
+      "h3_index": "860c44d77ffffff",
+      "resolution": 6,
+      "latitude": 61.532,
+      "longitude": -146.561,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T10:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.8,
+      "content_hash": "ac9198da0e950737d0351705d68ac93221da208a984c43b524959af231e9367e",
+      "observed_at_utc": "2026-11-27T10:31:46.949000+00:00",
+      "feature_vector": [
+        1.8,
+        16.5,
+        50,
+        0.8
+      ]
+    },
+    {
+      "tensor_coord": "8628314a7ffffff:CRUST_SHALLOW:2026-11-27T10:00:00Z",
+      "h3_index": "8628314a7ffffff",
+      "resolution": 6,
+      "latitude": 38.8145,
+      "longitude": -122.7868,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T10:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.08,
+      "content_hash": "3714321123621af456c165ee4022170c3465c2edbb91d38b07722af5c4217481",
+      "observed_at_utc": "2026-11-27T10:23:11.310000+00:00",
+      "feature_vector": [
+        1.08,
+        1.48,
+        18,
+        0.02
+      ]
+    },
+    {
+      "tensor_coord": "860c7529fffffff:CRUST_MID:2026-11-27T10:00:00Z",
+      "h3_index": "860c7529fffffff",
+      "resolution": 6,
+      "latitude": 62.3,
+      "longitude": -147.287,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T10:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.3,
+      "content_hash": "f759d1a2124b12851976af650f09a062e05c6d2bd1b97974228c5dd0a4948eee",
+      "observed_at_utc": "2026-11-27T10:23:09.222000+00:00",
+      "feature_vector": [
+        2.3,
+        16.4,
+        81,
+        0.8
+      ]
+    },
+    {
+      "tensor_coord": "860c711afffffff:CRUST_MID:2026-11-27T10:00:00Z",
+      "h3_index": "860c711afffffff",
+      "resolution": 6,
+      "latitude": 61.832,
+      "longitude": -148.102,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T10:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.9,
+      "content_hash": "f2e7817580d70bb6d4d31062546fe641810699dbb7ab7e2020751fc384bf1595",
+      "observed_at_utc": "2026-11-27T10:21:40.075000+00:00",
+      "feature_vector": [
+        1.9,
+        27.4,
+        56,
+        0.9
+      ]
+    },
+    {
+      "tensor_coord": "869b72b67ffffff:MANTLE_DEEP:2026-11-27T10:00:00Z",
+      "h3_index": "869b72b67ffffff",
+      "resolution": 6,
+      "latitude": -20.0627,
+      "longitude": -177.9493,
+      "depth_altitude_layer": "MANTLE_DEEP",
+      "time_bucket_utc": "2026-11-27T10:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 4.1,
+      "content_hash": "e6e5317c96b621dac636eef7c1eaf791d29531277214592472821bcf9c53f14b",
+      "observed_at_utc": "2026-11-27T10:03:08.388000+00:00",
+      "feature_vector": [
+        4.1,
+        554.03,
+        259,
+        0.46
+      ]
+    },
+    {
+      "tensor_coord": "8629a051fffffff:CRUST_SHALLOW:2026-11-27T09:00:00Z",
+      "h3_index": "8629a051fffffff",
+      "resolution": 6,
+      "latitude": 33.9378,
+      "longitude": -116.7163,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T09:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.28,
+      "content_hash": "379e7be23e5c7a6068a58574d93a3101d2c9b1a2482bb32fb9c5fb75650f6338",
+      "observed_at_utc": "2026-11-27T09:55:20.920000+00:00",
+      "feature_vector": [
+        1.28,
+        9.64,
+        25,
+        0.16
+      ]
+    },
+    {
+      "tensor_coord": "860c75c9fffffff:CRUST_MID:2026-11-27T09:00:00Z",
+      "h3_index": "860c75c9fffffff",
+      "resolution": 6,
+      "latitude": 62.973,
+      "longitude": -148.077,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T09:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.1,
+      "content_hash": "24342a2b2eaf5e072db242ba0ae4dbd5ec814a1b93ed278d950d34961a86ece6",
+      "observed_at_utc": "2026-11-27T09:54:43.635000+00:00",
+      "feature_vector": [
+        2.1,
+        53.6,
+        68,
+        0.9
+      ]
+    },
+    {
+      "tensor_coord": "860c50547ffffff:CRUST_MID:2026-11-27T09:00:00Z",
+      "h3_index": "860c50547ffffff",
+      "resolution": 6,
+      "latitude": 60.107,
+      "longitude": -153.049,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T09:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.9,
+      "content_hash": "10da4482e9f15421086aa5289efcdfddb4dbfd65222826f258e046a999c7ecd1",
+      "observed_at_utc": "2026-11-27T09:47:59.759000+00:00",
+      "feature_vector": [
+        0.9,
+        33.5,
+        12,
+        0.9
+      ]
+    },
+    {
+      "tensor_coord": "864cc52a7ffffff:CRUST_MID:2026-11-27T09:00:00Z",
+      "h3_index": "864cc52a7ffffff",
+      "resolution": 6,
+      "latitude": 17.9637,
+      "longitude": -66.572,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T09:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.24,
+      "content_hash": "a0a9d7bdb79efe3fdcf0e44b4383c0ce4ab14f4acfa8c92fdaf586503fe0fb3a",
+      "observed_at_utc": "2026-11-27T09:34:38.430000+00:00",
+      "feature_vector": [
+        2.24,
+        13.67,
+        77,
+        0.07
+      ]
+    },
+    {
+      "tensor_coord": "86488222fffffff:CRUST_SHALLOW:2026-11-27T09:00:00Z",
+      "h3_index": "86488222fffffff",
+      "resolution": 6,
+      "latitude": 28.748,
+      "longitude": -99.043,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T09:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.5,
+      "content_hash": "bdfdb7277a9f7a7267450e470cfc1355d26f506df9441fe7638be22dff6819ca",
+      "observed_at_utc": "2026-11-27T09:28:12.966000+00:00",
+      "feature_vector": [
+        1.5,
+        7.1,
+        35,
+        0.4
+      ]
+    },
+    {
+      "tensor_coord": "860c5062fffffff:MANTLE_TRANSITION:2026-11-27T09:00:00Z",
+      "h3_index": "860c5062fffffff",
+      "resolution": 6,
+      "latitude": 59.75,
+      "longitude": -152.882,
+      "depth_altitude_layer": "MANTLE_TRANSITION",
+      "time_bucket_utc": "2026-11-27T09:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.8,
+      "content_hash": "df239dd00ef40e96fe4bc7b8db1ce1f3742891a8160604a7b701c6ec198145d2",
+      "observed_at_utc": "2026-11-27T09:24:54.259000+00:00",
+      "feature_vector": [
+        1.8,
+        86.1,
+        50,
+        0.4
+      ]
+    },
+    {
+      "tensor_coord": "86298c877ffffff:CRUST_SHALLOW:2026-11-27T08:00:00Z",
+      "h3_index": "86298c877ffffff",
+      "resolution": 6,
+      "latitude": 37.462,
+      "longitude": -118.8415,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.65,
+      "content_hash": "03017b02340c6013f1d2e73d710e54283d15136790c968fbada55398db1ceb36",
+      "observed_at_utc": "2026-11-27T08:57:43.010000+00:00",
+      "feature_vector": [
+        1.65,
+        0.24,
+        42,
+        0.05
+      ]
+    },
+    {
+      "tensor_coord": "860c50577ffffff:CRUST_SHALLOW:2026-11-27T08:00:00Z",
+      "h3_index": "860c50577ffffff",
+      "resolution": 6,
+      "latitude": 60.118,
+      "longitude": -153.124,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.5,
+      "content_hash": "a587ce714c158fca039d435774c3cf8ab0ff9c5b2b15f3afd22fac52d7dbceae",
+      "observed_at_utc": "2026-11-27T08:46:33.695000+00:00",
+      "feature_vector": [
+        0.5,
+        5.0,
+        4,
+        0.4
+      ]
+    },
+    {
+      "tensor_coord": "862831487ffffff:CRUST_SHALLOW:2026-11-27T08:00:00Z",
+      "h3_index": "862831487ffffff",
+      "resolution": 6,
+      "latitude": 38.8348,
+      "longitude": -122.784,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.03,
+      "content_hash": "05cefd5c1492e33b865d992648ef867904ac58b594d7070022001e5dabb119de",
+      "observed_at_utc": "2026-11-27T08:41:32.870000+00:00",
+      "feature_vector": [
+        1.03,
+        2.35,
+        16,
+        0.02
+      ]
+    },
+    {
+      "tensor_coord": "860c712cfffffff:CRUST_MID:2026-11-27T08:00:00Z",
+      "h3_index": "860c712cfffffff",
+      "resolution": 6,
+      "latitude": 61.257,
+      "longitude": -147.672,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.1,
+      "content_hash": "d607aae4cb31ab5d0de8ec4eb81d9747d51ec8a8e0e16b4f1abe1ec2b2050bd1",
+      "observed_at_utc": "2026-11-27T08:41:11.306000+00:00",
+      "feature_vector": [
+        1.1,
+        10.3,
+        19,
+        0.8
+      ]
+    },
+    {
+      "tensor_coord": "862988997ffffff:CRUST_SHALLOW:2026-11-27T08:00:00Z",
+      "h3_index": "862988997ffffff",
+      "resolution": 6,
+      "latitude": 38.4803,
+      "longitude": -118.4608,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.9,
+      "content_hash": "c6600eb04ace0641f3a1b172aa033b47cea299071f43dcd569a84d0e7dcf8230",
+      "observed_at_utc": "2026-11-27T08:38:48.928000+00:00",
+      "feature_vector": [
+        1.9,
+        0.0,
+        56,
+        0.219
+      ]
+    },
+    {
+      "tensor_coord": "8629a0db7ffffff:CRUST_SHALLOW:2026-11-27T08:00:00Z",
+      "h3_index": "8629a0db7ffffff",
+      "resolution": 6,
+      "latitude": 33.5392,
+      "longitude": -116.7022,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.22,
+      "content_hash": "93d6930c42483ee3dbe37c2622edf416ba58645eca07315d03a9cf0638c3d248",
+      "observed_at_utc": "2026-11-27T08:32:59.010000+00:00",
+      "feature_vector": [
+        0.22,
+        5.1,
+        1,
+        0.12
+      ]
+    },
+    {
+      "tensor_coord": "864891237ffffff:CRUST_SHALLOW:2026-11-27T08:00:00Z",
+      "h3_index": "864891237ffffff",
+      "resolution": 6,
+      "latitude": 29.114,
+      "longitude": -97.738,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.4,
+      "content_hash": "928690865ba24e1373be3c6db4bfe31adb018c6f1bc502fd2485a14067ab7135",
+      "observed_at_utc": "2026-11-27T08:20:27.275000+00:00",
+      "feature_vector": [
+        1.4,
+        7.48,
+        30,
+        0.4
+      ]
+    },
+    {
+      "tensor_coord": "86488b36fffffff:CRUST_SHALLOW:2026-11-27T08:00:00Z",
+      "h3_index": "86488b36fffffff",
+      "resolution": 6,
+      "latitude": 31.971,
+      "longitude": -102.312,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.6,
+      "content_hash": "04116e2557f8b36d57555773104c3345f08a67906fc874e2ef51eac6cf7601ba",
+      "observed_at_utc": "2026-11-27T08:13:03.764000+00:00",
+      "feature_vector": [
+        0.6,
+        8.13,
+        6,
+        0.2
+      ]
+    },
+    {
+      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-27T08:00:00Z",
+      "h3_index": "8628314afffffff",
+      "resolution": 6,
+      "latitude": 38.824,
+      "longitude": -122.8092,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.71,
+      "content_hash": "1291bee1aaae8cb93c96c6e66605eb94f21948e9383c1dedb7472d00456b73c5",
+      "observed_at_utc": "2026-11-27T08:12:45.180000+00:00",
+      "feature_vector": [
+        0.71,
+        2.91,
+        8,
+        0.01
+      ]
+    },
+    {
+      "tensor_coord": "860d5c557ffffff:CRUST_SHALLOW:2026-11-27T08:00:00Z",
+      "h3_index": "860d5c557ffffff",
+      "resolution": 6,
+      "latitude": 65.758,
+      "longitude": -145.657,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.1,
+      "content_hash": "dd8bff129ff1e2f6540225d04d3dff7ee0b0fb30e8728115d9edfdbee7cb23c7",
+      "observed_at_utc": "2026-11-27T08:09:56.945000+00:00",
+      "feature_vector": [
+        2.1,
+        2.3,
+        68,
+        0.7
+      ]
+    },
+    {
+      "tensor_coord": "8628342dfffffff:CRUST_SHALLOW:2026-11-27T08:00:00Z",
+      "h3_index": "8628342dfffffff",
+      "resolution": 6,
+      "latitude": 37.6007,
+      "longitude": -122.4603,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.88,
+      "content_hash": "ed5e79d960672de599e6daeac3ba2ee2070b2f28734422e30af02c8939cb6d32",
+      "observed_at_utc": "2026-11-27T08:01:50.930000+00:00",
+      "feature_vector": [
+        1.88,
+        8.15,
+        54,
+        0.04
+      ]
+    },
+    {
+      "tensor_coord": "860c73737ffffff:CRUST_MID:2026-11-27T08:00:00Z",
+      "h3_index": "860c73737ffffff",
+      "resolution": 6,
+      "latitude": 61.29,
+      "longitude": -150.498,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T08:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.6,
+      "content_hash": "c55cd26031f6e68bee078a82cf4ac18206c2644be98737cd77e55687113cdeb7",
+      "observed_at_utc": "2026-11-27T08:00:50.634000+00:00",
+      "feature_vector": [
+        1.6,
+        52.5,
+        39,
+        0.6
+      ]
+    },
+    {
+      "tensor_coord": "864cc1d27ffffff:CRUST_SHALLOW:2026-11-27T07:00:00Z",
+      "h3_index": "864cc1d27ffffff",
+      "resolution": 6,
+      "latitude": 17.8647,
+      "longitude": -66.9663,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T07:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 3.31,
+      "content_hash": "4158768ea54dbc16fad7d254fae09b4d76eb554c6cf3349f53a032619ac9236f",
+      "observed_at_utc": "2026-11-27T07:56:45.290000+00:00",
+      "feature_vector": [
+        3.31,
+        7.76,
+        169,
+        0.35
+      ]
+    },
+    {
+      "tensor_coord": "86488244fffffff:CRUST_SHALLOW:2026-11-27T07:00:00Z",
+      "h3_index": "86488244fffffff",
+      "resolution": 6,
+      "latitude": 28.543,
+      "longitude": -98.392,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T07:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.7,
+      "content_hash": "973b224068fea1e3265076732cccbb9976d7f1ec6aff2bfcf903cefaa6adaa86",
+      "observed_at_utc": "2026-11-27T07:35:09.164000+00:00",
+      "feature_vector": [
+        1.7,
+        8.56,
+        44,
+        0.3
+      ]
+    },
+    {
+      "tensor_coord": "8629a0bb7ffffff:CRUST_MID:2026-11-27T07:00:00Z",
+      "h3_index": "8629a0bb7ffffff",
+      "resolution": 6,
+      "latitude": 33.7575,
+      "longitude": -117.5212,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T07:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.02,
+      "content_hash": "c3b2aa274aa46f8cdbbe517b4d1d9c86ed49c5012f1c2bdecd45a5785324c2e6",
+      "observed_at_utc": "2026-11-27T07:31:15.950000+00:00",
+      "feature_vector": [
+        1.02,
+        10.71,
+        16,
+        0.11
+      ]
+    },
+    {
+      "tensor_coord": "8628314a7ffffff:CRUST_SHALLOW:2026-11-27T07:00:00Z",
+      "h3_index": "8628314a7ffffff",
+      "resolution": 6,
+      "latitude": 38.8188,
+      "longitude": -122.7577,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T07:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.09,
+      "content_hash": "527b3ae0b6dd8e1b18781bfcad23f810dfa324b467c06b1bb6979d355cff632b",
+      "observed_at_utc": "2026-11-27T07:01:36.850000+00:00",
+      "feature_vector": [
+        1.09,
+        1.28,
+        18,
+        0.07
+      ]
+    },
+    {
+      "tensor_coord": "86283088fffffff:CRUST_SHALLOW:2026-11-27T06:00:00Z",
+      "h3_index": "86283088fffffff",
+      "resolution": 6,
+      "latitude": 37.899,
+      "longitude": -122.2153,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T06:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.19,
+      "content_hash": "187e6b5d4725c84371617194f191a2a86b5348c4c2705901f52d12e6e65b62f9",
+      "observed_at_utc": "2026-11-27T06:54:22.700000+00:00",
+      "feature_vector": [
+        2.19,
+        6.31,
+        82,
+        0.07
+      ]
+    },
+    {
+      "tensor_coord": "8629a9ab7ffffff:CRUST_SHALLOW:2026-11-27T06:00:00Z",
+      "h3_index": "8629a9ab7ffffff",
+      "resolution": 6,
+      "latitude": 36.5848,
+      "longitude": -121.1743,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T06:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.67,
+      "content_hash": "6a8b44aaa97f0b0974e48fa69a955cbc2ea3802e084ce4b2de4f81bc06dc3610",
+      "observed_at_utc": "2026-11-27T06:40:24.970000+00:00",
+      "feature_vector": [
+        1.67,
+        3.25,
+        43,
+        0.12
+      ]
+    },
+    {
+      "tensor_coord": "8629aa6cfffffff:CRUST_SHALLOW:2026-11-27T06:00:00Z",
+      "h3_index": "8629aa6cfffffff",
+      "resolution": 6,
+      "latitude": 37.367,
+      "longitude": -118.4133,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T06:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.82,
+      "content_hash": "a70db6ad4ca2c6adaec3fe05af780490819544cbc6ec0880e822dd63a942cad6",
+      "observed_at_utc": "2026-11-27T06:38:11.490000+00:00",
+      "feature_vector": [
+        1.82,
+        0.57,
+        51,
+        0.06
+      ]
+    },
+    {
+      "tensor_coord": "860cec6dfffffff:CRUST_SHALLOW:2026-11-27T06:00:00Z",
+      "h3_index": "860cec6dfffffff",
+      "resolution": 6,
+      "latitude": 58.174,
+      "longitude": -155.368,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T06:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.7,
+      "content_hash": "7c25cc7dc7c0187f17a4a75b312631104d392bb5323d5b4f503a09328bf74c40",
+      "observed_at_utc": "2026-11-27T06:37:28.656000+00:00",
+      "feature_vector": [
+        0.7,
+        5.0,
+        8,
+        0.2
+      ]
+    },
+    {
+      "tensor_coord": "8628314a7ffffff:CRUST_SHALLOW:2026-11-27T06:00:00Z",
+      "h3_index": "8628314a7ffffff",
+      "resolution": 6,
+      "latitude": 38.818,
+      "longitude": -122.7828,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T06:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.54,
+      "content_hash": "b3ddb43f7fa921893819471c99632f9d4b1476b045ce75fa8cc1f00826a77898",
+      "observed_at_utc": "2026-11-27T06:31:51.190000+00:00",
+      "feature_vector": [
+        1.54,
+        1.51,
+        36,
+        0.01
+      ]
+    },
+    {
+      "tensor_coord": "860c50407ffffff:CRUST_SHALLOW:2026-11-27T06:00:00Z",
+      "h3_index": "860c50407ffffff",
+      "resolution": 6,
+      "latitude": 60.03,
+      "longitude": -153.407,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T06:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.6,
+      "content_hash": "20006f75be7826f639c86fbb6ae31fe63e96b05ec9b87ad0579e8a091950db7f",
+      "observed_at_utc": "2026-11-27T06:04:52.517000+00:00",
+      "feature_vector": [
+        0.6,
+        5.0,
+        6,
+        0.6
+      ]
+    },
+    {
+      "tensor_coord": "860c730e7ffffff:CRUST_MID:2026-11-27T05:00:00Z",
+      "h3_index": "860c730e7ffffff",
+      "resolution": 6,
+      "latitude": 61.351,
+      "longitude": -150.079,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T05:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.9,
+      "content_hash": "07c414162be0c06f2b5ac62c1f8f4356b024b36b30fe82c8d5d225170ccd5bd2",
+      "observed_at_utc": "2026-11-27T05:57:03.291000+00:00",
+      "feature_vector": [
+        1.9,
+        50.4,
+        56,
+        0.8
+      ]
+    },
+    {
+      "tensor_coord": "86488244fffffff:CRUST_SHALLOW:2026-11-27T05:00:00Z",
+      "h3_index": "86488244fffffff",
+      "resolution": 6,
+      "latitude": 28.545,
+      "longitude": -98.386,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T05:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.7,
+      "content_hash": "24992e130deaf1315c2f24bc9bd10726c2ff6d9013a158e5fef363c0e2e76ffb",
+      "observed_at_utc": "2026-11-27T05:53:40.389000+00:00",
+      "feature_vector": [
+        1.7,
+        7.62,
+        44,
+        0.3
+      ]
+    },
+    {
+      "tensor_coord": "860c53927ffffff:MANTLE_TRANSITION:2026-11-27T05:00:00Z",
+      "h3_index": "860c53927ffffff",
+      "resolution": 6,
+      "latitude": 59.643,
+      "longitude": -152.484,
+      "depth_altitude_layer": "MANTLE_TRANSITION",
+      "time_bucket_utc": "2026-11-27T05:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.7,
+      "content_hash": "d805e615c81b0cfd7a8bb996275de28f5d5fdd8d428fea9b2a246989b6a0d637",
+      "observed_at_utc": "2026-11-27T05:38:25.458000+00:00",
+      "feature_vector": [
+        1.7,
+        72.6,
+        44,
+        0.5
+      ]
+    },
+    {
+      "tensor_coord": "8629ae49fffffff:CRUST_SHALLOW:2026-11-27T05:00:00Z",
+      "h3_index": "8629ae49fffffff",
+      "resolution": 6,
+      "latitude": 35.8947,
+      "longitude": -117.7417,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T05:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.92,
+      "content_hash": "f7e25c89e0a8b5d2b5c014e14e205306ecfc4a72583d72f3eab08dd054863c4a",
+      "observed_at_utc": "2026-11-27T05:31:09.450000+00:00",
+      "feature_vector": [
+        0.92,
+        8.08,
+        13,
+        0.1
+      ]
+    },
+    {
+      "tensor_coord": "8628314a7ffffff:CRUST_SHALLOW:2026-11-27T05:00:00Z",
+      "h3_index": "8628314a7ffffff",
+      "resolution": 6,
+      "latitude": 38.8192,
+      "longitude": -122.7835,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T05:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.08,
+      "content_hash": "a93797ef82b215d6282ec2ef11509ca656ee5bf30192578b21552825cb7dcc69",
+      "observed_at_utc": "2026-11-27T05:27:09.610000+00:00",
+      "feature_vector": [
+        1.08,
+        1.53,
+        18,
+        0.02
+      ]
+    },
+    {
+      "tensor_coord": "860cecadfffffff:MANTLE_TRANSITION:2026-11-27T05:00:00Z",
+      "h3_index": "860cecadfffffff",
+      "resolution": 6,
+      "latitude": 58.56,
+      "longitude": -154.184,
+      "depth_altitude_layer": "MANTLE_TRANSITION",
+      "time_bucket_utc": "2026-11-27T05:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.9,
+      "content_hash": "5f9b3b390cdb0a073ab99c3fa8a6374c78d56e7bf7f75fa3d5a566bf86dce1fa",
+      "observed_at_utc": "2026-11-27T05:24:03.184000+00:00",
+      "feature_vector": [
+        1.9,
+        89.6,
+        56,
+        0.3
+      ]
+    },
+    {
+      "tensor_coord": "860c61aafffffff:CRUST_SHALLOW:2026-11-27T05:00:00Z",
+      "h3_index": "860c61aafffffff",
+      "resolution": 6,
+      "latitude": 61.553,
+      "longitude": -141.66,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T05:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.1,
+      "content_hash": "6ee7b163d27b8f2e1e5888ce2e652677acea048fab60de8c3c60b5f49f0872c6",
+      "observed_at_utc": "2026-11-27T05:21:07.630000+00:00",
+      "feature_vector": [
+        2.1,
+        2.2,
+        68,
+        0.5
+      ]
+    },
+    {
+      "tensor_coord": "8629a9167ffffff:CRUST_SHALLOW:2026-11-27T05:00:00Z",
+      "h3_index": "8629a9167ffffff",
+      "resolution": 6,
+      "latitude": 36.4683,
+      "longitude": -121.071,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T05:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.72,
+      "content_hash": "db9fded0420413fa80de74c924c4d0773fc0c083f3693803c64c2117fb1faeda",
+      "observed_at_utc": "2026-11-27T05:14:03.520000+00:00",
+      "feature_vector": [
+        1.72,
+        6.95,
+        46,
+        0.12
+      ]
+    },
+    {
+      "tensor_coord": "864cc561fffffff:CRUST_MID:2026-11-27T05:00:00Z",
+      "h3_index": "864cc561fffffff",
+      "resolution": 6,
+      "latitude": 17.9228,
+      "longitude": -66.8525,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T05:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.1,
+      "content_hash": "e7a22330064de3c8471a8d270bc4c2c749c1e10528dc392ec430203ccdcca0fa",
+      "observed_at_utc": "2026-11-27T05:12:04.230000+00:00",
+      "feature_vector": [
+        2.1,
+        15.43,
+        68,
+        0.32
+      ]
+    },
+    {
+      "tensor_coord": "86ce0111fffffff:CRUST_SHALLOW:2026-11-27T04:00:00Z",
+      "h3_index": "86ce0111fffffff",
+      "resolution": 6,
+      "latitude": -44.568,
+      "longitude": -79.7614,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T04:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 5.0,
+      "content_hash": "9246d9698164bc7dc38ec8207b02f65472de8c869b59e1303e92c42b6081d757",
+      "observed_at_utc": "2026-11-27T04:44:36.196000+00:00",
+      "feature_vector": [
+        5.0,
+        10.0,
+        385,
+        1.06
+      ]
+    },
+    {
+      "tensor_coord": "8673b26f7ffffff:CRUST_MID:2026-11-27T04:00:00Z",
+      "h3_index": "8673b26f7ffffff",
+      "resolution": 6,
+      "latitude": 2.0437,
+      "longitude": 126.6462,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T04:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 4.6,
+      "content_hash": "9045501e47df0632437c979a3d5fd90c1dd386c314ba6b6e4c1547de217e28b2",
+      "observed_at_utc": "2026-11-27T04:17:10.107000+00:00",
+      "feature_vector": [
+        4.6,
+        42.54,
+        326,
+        0.81
+      ]
+    },
+    {
+      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-27T04:00:00Z",
+      "h3_index": "8628314afffffff",
+      "resolution": 6,
+      "latitude": 38.8278,
+      "longitude": -122.816,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T04:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.72,
+      "content_hash": "a37499a41ba7c4625e322a44532b93d790b036df9f8f532277c17b4dcd9a4dbc",
+      "observed_at_utc": "2026-11-27T04:05:34.670000+00:00",
+      "feature_vector": [
+        0.72,
+        1.44,
+        8,
+        0.02
+      ]
+    },
+    {
+      "tensor_coord": "8629a0467ffffff:CRUST_MID:2026-11-27T04:00:00Z",
+      "h3_index": "8629a0467ffffff",
+      "resolution": 6,
+      "latitude": 34.0623,
+      "longitude": -116.9352,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T04:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.74,
+      "content_hash": "7267ba15905db77f8b401800e71e9f1513a70ede7e67c533204a880393e43644",
+      "observed_at_utc": "2026-11-27T04:02:59.430000+00:00",
+      "feature_vector": [
+        1.74,
+        16.31,
+        47,
+        0.19
+      ]
+    },
+    {
+      "tensor_coord": "860c54c67ffffff:CRUST_SHALLOW:2026-11-27T03:00:00Z",
+      "h3_index": "860c54c67ffffff",
+      "resolution": 6,
+      "latitude": 61.322,
+      "longitude": -152.242,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T03:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.7,
+      "content_hash": "68434fafbbf257601f5bbf739c7415617e29bc458d17201561f69d56694b8511",
+      "observed_at_utc": "2026-11-27T03:51:45.575000+00:00",
+      "feature_vector": [
+        0.7,
+        5.0,
+        8,
+        0.1
+      ]
+    },
+    {
+      "tensor_coord": "860d5ad8fffffff:CRUST_MID:2026-11-27T03:00:00Z",
+      "h3_index": "860d5ad8fffffff",
+      "resolution": 6,
+      "latitude": 64.779,
+      "longitude": -148.789,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T03:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.9,
+      "content_hash": "07c364aa82c5fc688024d033b8e681d2266e451832cf9fbcacd18ea628f9ffad",
+      "observed_at_utc": "2026-11-27T03:44:34.356000+00:00",
+      "feature_vector": [
+        0.9,
+        19.8,
+        12,
+        0.4
+      ]
+    },
+    {
+      "tensor_coord": "862831487ffffff:CRUST_SHALLOW:2026-11-27T03:00:00Z",
+      "h3_index": "862831487ffffff",
+      "resolution": 6,
+      "latitude": 38.837,
+      "longitude": -122.7865,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T03:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.02,
+      "content_hash": "8eed1081c4dd3f6055e45553266e3478318b9729167da1e739a9702a86260e1f",
+      "observed_at_utc": "2026-11-27T03:28:03.160000+00:00",
+      "feature_vector": [
+        1.02,
+        1.78,
+        16,
+        0.01
+      ]
+    },
+    {
+      "tensor_coord": "860c68857ffffff:CRUST_SHALLOW:2026-11-27T03:00:00Z",
+      "h3_index": "860c68857ffffff",
+      "resolution": 6,
+      "latitude": 60.22,
+      "longitude": -141.279,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T03:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.5,
+      "content_hash": "4d56c5f8d6b15b4204f9004fb749664fa8006a099c14eee81c6b20a5e2029dc4",
+      "observed_at_utc": "2026-11-27T03:25:26.381000+00:00",
+      "feature_vector": [
+        1.5,
+        2.2,
+        35,
+        0.9
+      ]
+    },
+    {
+      "tensor_coord": "8629a03b7ffffff:CRUST_SHALLOW:2026-11-27T03:00:00Z",
+      "h3_index": "8629a03b7ffffff",
+      "resolution": 6,
+      "latitude": 34.1562,
+      "longitude": -117.3678,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T03:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.75,
+      "content_hash": "8e4032f298d9de9933722eb8836132ac1e28c22f63ab1fabf5ebc7d91c15f021",
+      "observed_at_utc": "2026-11-27T03:13:35.770000+00:00",
+      "feature_vector": [
+        0.75,
+        9.7,
+        9,
+        0.18
+      ]
+    },
+    {
+      "tensor_coord": "865d13127ffffff:CRUST_MID:2026-11-27T03:00:00Z",
+      "h3_index": "865d13127ffffff",
+      "resolution": 6,
+      "latitude": 19.1802,
+      "longitude": -155.509,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T03:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.79,
+      "content_hash": "79001046c984355881d48a8bd02d593cc79cf89578e6e181af6cceffb34d17a8",
+      "observed_at_utc": "2026-11-27T03:04:24.340000+00:00",
+      "feature_vector": [
+        1.79,
+        31.52,
+        49,
+        0.1
+      ]
+    },
+    {
+      "tensor_coord": "8629a9ac7ffffff:CRUST_SHALLOW:2026-11-27T03:00:00Z",
+      "h3_index": "8629a9ac7ffffff",
+      "resolution": 6,
+      "latitude": 36.6945,
+      "longitude": -121.437,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T03:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.42,
+      "content_hash": "fd5bad2794855015bbbcb5526b8cb3cfe2f972de51f690a949dddf3e5abf7b8b",
+      "observed_at_utc": "2026-11-27T03:00:11.550000+00:00",
+      "feature_vector": [
+        1.42,
+        6.42,
+        31,
+        0.06
+      ]
+    },
+    {
+      "tensor_coord": "8629a9ac7ffffff:CRUST_SHALLOW:2026-11-27T02:00:00Z",
+      "h3_index": "8629a9ac7ffffff",
+      "resolution": 6,
+      "latitude": 36.6818,
+      "longitude": -121.4542,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T02:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.92,
+      "content_hash": "81b20d06739735cb10e7d9c9b2782d9782e4d7ff98e024f69b256e301fae4f3f",
+      "observed_at_utc": "2026-11-27T02:57:24.970000+00:00",
+      "feature_vector": [
+        1.92,
+        3.71,
+        57,
+        0.23
+      ]
+    },
+    {
+      "tensor_coord": "8626da38fffffff:CRUST_SHALLOW:2026-11-27T02:00:00Z",
+      "h3_index": "8626da38fffffff",
+      "resolution": 6,
+      "latitude": 32.489,
+      "longitude": -101.438,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T02:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.3,
+      "content_hash": "41fee14aebcb74640f1393219ec179c333ecc7892c3a74fab1d81860fc82bcd1",
+      "observed_at_utc": "2026-11-27T02:48:39.869000+00:00",
+      "feature_vector": [
+        1.3,
+        5.69,
+        26,
+        0.2
+      ]
+    },
+    {
+      "tensor_coord": "865d13127ffffff:CRUST_MID:2026-11-27T02:00:00Z",
+      "h3_index": "865d13127ffffff",
+      "resolution": 6,
+      "latitude": 19.1413,
+      "longitude": -155.4998,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T02:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.0,
+      "content_hash": "441bc0ffb155797073bd33bd5757abdb98051e5eaf5ef5d3ea59eb1022a039d6",
+      "observed_at_utc": "2026-11-27T02:33:04.300000+00:00",
+      "feature_vector": [
+        2.0,
+        29.25,
+        62,
+        0.2
+      ]
+    },
+    {
+      "tensor_coord": "869e10aa7ffffff:CRUST_SHALLOW:2026-11-27T02:00:00Z",
+      "h3_index": "869e10aa7ffffff",
+      "resolution": 6,
+      "latitude": -14.6253,
+      "longitude": 167.8571,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T02:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 5.0,
+      "content_hash": "8fa188a29ce608ce79fa7d4f49866e552a1cb74eafdf8e9ae3e2d6ad3c7788a5",
+      "observed_at_utc": "2026-11-27T02:13:21.018000+00:00",
+      "feature_vector": [
+        5.0,
+        8.98,
+        385,
+        0.59
+      ]
+    },
+    {
+      "tensor_coord": "860c70727ffffff:CRUST_MID:2026-11-27T01:00:00Z",
+      "h3_index": "860c70727ffffff",
+      "resolution": 6,
+      "latitude": 62.262,
+      "longitude": -149.792,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T01:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.5,
+      "content_hash": "bc04130f166aa0deca86f2326fff1e543766943cf1aeda6801ea9d658e114334",
+      "observed_at_utc": "2026-11-27T01:58:34.541000+00:00",
+      "feature_vector": [
+        1.5,
+        13.6,
+        35,
+        0.5
+      ]
+    },
+    {
+      "tensor_coord": "8648d4097ffffff:CRUST_SHALLOW:2026-11-27T01:00:00Z",
+      "h3_index": "8648d4097ffffff",
+      "resolution": 6,
+      "latitude": 31.955,
+      "longitude": -103.896,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T01:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.9,
+      "content_hash": "fc2e57958d9585d911e779d125f26208e9a30d604481262d11fe24de346ef5d0",
+      "observed_at_utc": "2026-11-27T01:58:25.981000+00:00",
+      "feature_vector": [
+        0.9,
+        7.95,
+        12,
+        0.1
+      ]
+    },
+    {
+      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-27T01:00:00Z",
+      "h3_index": "8628314afffffff",
+      "resolution": 6,
+      "latitude": 38.8277,
+      "longitude": -122.8003,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T01:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.77,
+      "content_hash": "69741997efd95e096d494187647782f11627f9009dc41320a91163e5cb279d66",
+      "observed_at_utc": "2026-11-27T01:51:27.160000+00:00",
+      "feature_vector": [
+        0.77,
+        1.91,
+        9,
+        0.02
+      ]
+    },
+    {
+      "tensor_coord": "8628314a7ffffff:CRUST_SHALLOW:2026-11-27T01:00:00Z",
+      "h3_index": "8628314a7ffffff",
+      "resolution": 6,
+      "latitude": 38.7958,
+      "longitude": -122.7528,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T01:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.64,
+      "content_hash": "723946f21dea635e007f31fe934031350a1286f901d7975f1db6167560615fac",
+      "observed_at_utc": "2026-11-27T01:26:20.120000+00:00",
+      "feature_vector": [
+        0.64,
+        3.65,
+        6,
+        0.02
+      ]
+    },
+    {
+      "tensor_coord": "860c7270fffffff:MANTLE_TRANSITION:2026-11-27T00:00:00Z",
+      "h3_index": "860c7270fffffff",
+      "resolution": 6,
+      "latitude": 61.821,
+      "longitude": -151.94,
+      "depth_altitude_layer": "MANTLE_TRANSITION",
+      "time_bucket_utc": "2026-11-27T00:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.9,
+      "content_hash": "85f25246d45bee653c6f28c1180b431d94e20ebe342549dee6f6400f12aaee2f",
+      "observed_at_utc": "2026-11-27T00:57:30.405000+00:00",
+      "feature_vector": [
+        1.9,
+        111.3,
+        56,
+        0.7
+      ]
+    },
+    {
+      "tensor_coord": "8629a6af7ffffff:CRUST_MID:2026-11-27T00:00:00Z",
+      "h3_index": "8629a6af7ffffff",
+      "resolution": 6,
+      "latitude": 33.445,
+      "longitude": -116.5473,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-27T00:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.42,
+      "content_hash": "8a14161696f6dbe0d5a7cb0ff693b7455327454ab2c0e750469295b748726b99",
+      "observed_at_utc": "2026-11-27T00:40:46.670000+00:00",
+      "feature_vector": [
+        1.42,
+        10.47,
+        31,
+        0.21
+      ]
+    },
     {
       "tensor_coord": "86283159fffffff:CRUST_SHALLOW:2026-11-27T00:00:00Z",
       "h3_index": "86283159fffffff",
@@ -81,6 +1886,25 @@
       ]
     },
     {
+      "tensor_coord": "864882227ffffff:CRUST_SHALLOW:2026-11-27T00:00:00Z",
+      "h3_index": "864882227ffffff",
+      "resolution": 6,
+      "latitude": 28.723,
+      "longitude": -99.015,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-27T00:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.8,
+      "content_hash": "7d2c7624f4dc92383144762d124c1e3230a0a1ba15031661dd395489f34a87e5",
+      "observed_at_utc": "2026-11-27T00:25:57.987000+00:00",
+      "feature_vector": [
+        1.8,
+        4.3,
+        50,
+        0.4
+      ]
+    },
+    {
       "tensor_coord": "869ed1447ffffff:MANTLE_TRANSITION:2026-11-27T00:00:00Z",
       "h3_index": "869ed1447ffffff",
       "resolution": 6,
@@ -97,6 +1921,25 @@
         74.06,
         400,
         1.09
+      ]
+    },
+    {
+      "tensor_coord": "8622c239fffffff:CRUST_MID:2026-11-26T23:00:00Z",
+      "h3_index": "8622c239fffffff",
+      "resolution": 6,
+      "latitude": 54.087,
+      "longitude": -169.403,
+      "depth_altitude_layer": "CRUST_MID",
+      "time_bucket_utc": "2026-11-26T23:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 3.8,
+      "content_hash": "4eee20e0b39d002fd94952d003a843cc3e1f50dbdb8a381170467b957e01a311",
+      "observed_at_utc": "2026-11-26T23:52:59.392000+00:00",
+      "feature_vector": [
+        3.8,
+        13.4,
+        222,
+        0.8
       ]
     },
     {
@@ -214,6 +2057,44 @@
       ]
     },
     {
+      "tensor_coord": "8626da6b7ffffff:CRUST_SHALLOW:2026-11-26T23:00:00Z",
+      "h3_index": "8626da6b7ffffff",
+      "resolution": 6,
+      "latitude": 32.411,
+      "longitude": -102.083,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-26T23:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.4,
+      "content_hash": "3abbc680412b6cd1cb921846f559d12da461933f155193427e0a55beeac838a9",
+      "observed_at_utc": "2026-11-26T23:10:04.682000+00:00",
+      "feature_vector": [
+        1.4,
+        6.57,
+        30,
+        0.2
+      ]
+    },
+    {
+      "tensor_coord": "8648d6c5fffffff:CRUST_SHALLOW:2026-11-26T23:00:00Z",
+      "h3_index": "8648d6c5fffffff",
+      "resolution": 6,
+      "latitude": 32.143,
+      "longitude": -102.694,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-26T23:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.4,
+      "content_hash": "1b3a5f23e4b8467089d721b977a6042394cf790bc5ac89a2545bf13214866697",
+      "observed_at_utc": "2026-11-26T23:02:23.895000+00:00",
+      "feature_vector": [
+        1.4,
+        3.34,
+        30,
+        0.2
+      ]
+    },
+    {
       "tensor_coord": "860c60847ffffff:CRUST_SHALLOW:2026-11-26T22:00:00Z",
       "h3_index": "860c60847ffffff",
       "resolution": 6,
@@ -271,25 +2152,6 @@
       ]
     },
     {
-      "tensor_coord": "8648d6c5fffffff:CRUST_SHALLOW:2026-11-26T22:00:00Z",
-      "h3_index": "8648d6c5fffffff",
-      "resolution": 6,
-      "latitude": 32.1377,
-      "longitude": -102.6841,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T22:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.7,
-      "content_hash": "70804354b8919e2ca8e7cbeea2056a0438cc65c510159a2c0ce5df71ce2d13f9",
-      "observed_at_utc": "2026-11-26T22:25:30.893000+00:00",
-      "feature_vector": [
-        2.7,
-        5.94,
-        112,
-        0.38
-      ]
-    },
-    {
       "tensor_coord": "860cec6dfffffff:CRUST_SHALLOW:2026-11-26T22:00:00Z",
       "h3_index": "860cec6dfffffff",
       "resolution": 6,
@@ -325,6 +2187,25 @@
         73.3,
         148,
         0.8
+      ]
+    },
+    {
+      "tensor_coord": "8648d6c5fffffff:CRUST_SHALLOW:2026-11-26T22:00:00Z",
+      "h3_index": "8648d6c5fffffff",
+      "resolution": 6,
+      "latitude": 32.127,
+      "longitude": -102.7,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-26T22:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.3,
+      "content_hash": "8af0cc924bda97ac3c56e7f41287ae22b5f68a8c768451d325a24c4b247edbe1",
+      "observed_at_utc": "2026-11-26T22:14:17.998000+00:00",
+      "feature_vector": [
+        1.3,
+        5.15,
+        26,
+        0.2
       ]
     },
     {
@@ -518,6 +2399,25 @@
       ]
     },
     {
+      "tensor_coord": "8648d4127ffffff:CRUST_SHALLOW:2026-11-26T21:00:00Z",
+      "h3_index": "8648d4127ffffff",
+      "resolution": 6,
+      "latitude": 31.669,
+      "longitude": -104.177,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-26T21:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.5,
+      "content_hash": "15e3b5bb8fcf8f455afb72579fa246d2230be02dee046d2f7dd4b474a705fcef",
+      "observed_at_utc": "2026-11-26T21:26:45.970000+00:00",
+      "feature_vector": [
+        1.5,
+        6.1,
+        35,
+        0.2
+      ]
+    },
+    {
       "tensor_coord": "860cec697ffffff:CRUST_SHALLOW:2026-11-26T21:00:00Z",
       "h3_index": "860cec697ffffff",
       "resolution": 6,
@@ -572,6 +2472,25 @@
         0.8,
         35,
         1.1
+      ]
+    },
+    {
+      "tensor_coord": "8648d6c5fffffff:CRUST_SHALLOW:2026-11-26T21:00:00Z",
+      "h3_index": "8648d6c5fffffff",
+      "resolution": 6,
+      "latitude": 32.148,
+      "longitude": -102.693,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-26T21:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.7,
+      "content_hash": "3176bce0568e417c5231fe1ad0e8a134003d1946002ab86af22d2ce732f391a4",
+      "observed_at_utc": "2026-11-26T21:04:54.355000+00:00",
+      "feature_vector": [
+        1.7,
+        7.86,
+        44,
+        0.1
       ]
     },
     {
@@ -1012,6 +2931,25 @@
       ]
     },
     {
+      "tensor_coord": "86488222fffffff:CRUST_SHALLOW:2026-11-26T18:00:00Z",
+      "h3_index": "86488222fffffff",
+      "resolution": 6,
+      "latitude": 28.762,
+      "longitude": -99.034,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-26T18:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 2.1,
+      "content_hash": "24c790c7554437e0769fcff1d7d4d809cc2dfbcc5ce9dde541abe5652177f2b6",
+      "observed_at_utc": "2026-11-26T18:19:34.518000+00:00",
+      "feature_vector": [
+        2.1,
+        7.92,
+        68,
+        0.4
+      ]
+    },
+    {
       "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-26T18:00:00Z",
       "h3_index": "8628314afffffff",
       "resolution": 6,
@@ -1316,6 +3254,25 @@
       ]
     },
     {
+      "tensor_coord": "864889a17ffffff:CRUST_SHALLOW:2026-11-26T15:00:00Z",
+      "h3_index": "864889a17ffffff",
+      "resolution": 6,
+      "latitude": 31.148,
+      "longitude": -103.45,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-26T15:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.6,
+      "content_hash": "aa4f3dadaeed2500ff2d9f9d34d37afdb8fcfa64a04f4f8f62f658ec115f2240",
+      "observed_at_utc": "2026-11-26T15:57:50.643000+00:00",
+      "feature_vector": [
+        1.6,
+        4.1,
+        39,
+        0.2
+      ]
+    },
+    {
       "tensor_coord": "8629a0d87ffffff:CRUST_MID:2026-11-26T15:00:00Z",
       "h3_index": "8629a0d87ffffff",
       "resolution": 6,
@@ -1601,6 +3558,25 @@
       ]
     },
     {
+      "tensor_coord": "8626da6a7ffffff:CRUST_SHALLOW:2026-11-26T14:00:00Z",
+      "h3_index": "8626da6a7ffffff",
+      "resolution": 6,
+      "latitude": 32.422,
+      "longitude": -102.02,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-26T14:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.5,
+      "content_hash": "f98a279cb3b8e036b9e04e408aee0ede80447557df4c4e3f22f4454e5ac49310",
+      "observed_at_utc": "2026-11-26T14:24:43.089000+00:00",
+      "feature_vector": [
+        0.5,
+        8.54,
+        4,
+        0.2
+      ]
+    },
+    {
       "tensor_coord": "860c42b9fffffff:CRUST_SHALLOW:2026-11-26T14:00:00Z",
       "h3_index": "860c42b9fffffff",
       "resolution": 6,
@@ -1617,6 +3593,25 @@
         0.0,
         96,
         0.8
+      ]
+    },
+    {
+      "tensor_coord": "86488222fffffff:CRUST_SHALLOW:2026-11-26T14:00:00Z",
+      "h3_index": "86488222fffffff",
+      "resolution": 6,
+      "latitude": 28.759,
+      "longitude": -99.035,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-26T14:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 1.7,
+      "content_hash": "1a39073e5d02f8550745e69c242bac912d16fde08088fcf520057534cceb50f3",
+      "observed_at_utc": "2026-11-26T14:19:52.455000+00:00",
+      "feature_vector": [
+        1.7,
+        6.21,
+        44,
+        0.4
       ]
     },
     {
@@ -1655,2533 +3650,6 @@
         5.82,
         6,
         0.09
-      ]
-    },
-    {
-      "tensor_coord": "862985927ffffff:CRUST_SHALLOW:2026-11-26T13:00:00Z",
-      "h3_index": "862985927ffffff",
-      "resolution": 6,
-      "latitude": 35.6345,
-      "longitude": -117.4587,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T13:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.84,
-      "content_hash": "fb01bef2d7a0ecb950ffb7b9605cfae818cbadec68707f3749a914d3ef8838d9",
-      "observed_at_utc": "2026-11-26T13:43:32+00:00",
-      "feature_vector": [
-        0.84,
-        7.13,
-        11,
-        0.16
-      ]
-    },
-    {
-      "tensor_coord": "8628d4d27ffffff:CRUST_SHALLOW:2026-11-26T13:00:00Z",
-      "h3_index": "8628d4d27ffffff",
-      "resolution": 6,
-      "latitude": 46.6905,
-      "longitude": -121.0642,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T13:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.61,
-      "content_hash": "79ce9efa92680f92b302d3ff1ef0d6d1094f13abfcf468678ddeac2d6f32de38",
-      "observed_at_utc": "2026-11-26T13:41:37.360000+00:00",
-      "feature_vector": [
-        1.61,
-        5.84,
-        40,
-        0.15
-      ]
-    },
-    {
-      "tensor_coord": "86298905fffffff:CRUST_SHALLOW:2026-11-26T13:00:00Z",
-      "h3_index": "86298905fffffff",
-      "resolution": 6,
-      "latitude": 39.581,
-      "longitude": -119.9747,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T13:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.93,
-      "content_hash": "a4cca95a562e6f148307838f6fcd43416683c7532bcc58729187cb82c4cfbe07",
-      "observed_at_utc": "2026-11-26T13:21:58.481000+00:00",
-      "feature_vector": [
-        1.93,
-        5.47,
-        57,
-        0.239
-      ]
-    },
-    {
-      "tensor_coord": "862830817ffffff:CRUST_MID:2026-11-26T13:00:00Z",
-      "h3_index": "862830817ffffff",
-      "resolution": 6,
-      "latitude": 37.8128,
-      "longitude": -122.2918,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T13:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.62,
-      "content_hash": "9870afca4f478cedfc7b2974106de4f4c9759ef99fedef68a1f6e4ccf3b662f6",
-      "observed_at_utc": "2026-11-26T13:15:42.200000+00:00",
-      "feature_vector": [
-        1.62,
-        13.09,
-        40,
-        0.07
-      ]
-    },
-    {
-      "tensor_coord": "862993a57ffffff:CRUST_SHALLOW:2026-11-26T13:00:00Z",
-      "h3_index": "862993a57ffffff",
-      "resolution": 6,
-      "latitude": 38.5037,
-      "longitude": -112.9102,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T13:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.37,
-      "content_hash": "bd00da6ddad4745af5ab815333e83ea6fef7fd9f7adbe3c88a03e5084bdb47c0",
-      "observed_at_utc": "2026-11-26T13:07:49.040000+00:00",
-      "feature_vector": [
-        2.37,
-        2.41,
-        86,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "860c50467ffffff:CRUST_SHALLOW:2026-11-26T13:00:00Z",
-      "h3_index": "860c50467ffffff",
-      "resolution": 6,
-      "latitude": 60.016,
-      "longitude": -153.106,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T13:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.7,
-      "content_hash": "3f4cb2205507ff793b61e912da6f60f63e879aba6b395b086c8a49b93ac6a57f",
-      "observed_at_utc": "2026-11-26T13:05:43.796000+00:00",
-      "feature_vector": [
-        0.7,
-        5.0,
-        8,
-        0.5
-      ]
-    },
-    {
-      "tensor_coord": "8629a6907ffffff:CRUST_SHALLOW:2026-11-26T13:00:00Z",
-      "h3_index": "8629a6907ffffff",
-      "resolution": 6,
-      "latitude": 32.8717,
-      "longitude": -116.2265,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T13:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.91,
-      "content_hash": "002456d42aab4e72e8aaffa16301f5cb08b5dd263a1e3dd800ee2270b115af46",
-      "observed_at_utc": "2026-11-26T13:03:07.510000+00:00",
-      "feature_vector": [
-        0.91,
-        9.5,
-        13,
-        0.18
-      ]
-    },
-    {
-      "tensor_coord": "86489131fffffff:CRUST_SHALLOW:2026-11-26T12:00:00Z",
-      "h3_index": "86489131fffffff",
-      "resolution": 6,
-      "latitude": 29.094,
-      "longitude": -97.768,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T12:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.9,
-      "content_hash": "a1a7f987b2161a6045f7551526987fb1a5c15ec63a19d9ab57128441fc939875",
-      "observed_at_utc": "2026-11-26T12:57:53.213000+00:00",
-      "feature_vector": [
-        1.9,
-        8.63,
-        56,
-        0.3
-      ]
-    },
-    {
-      "tensor_coord": "86488b61fffffff:CRUST_SHALLOW:2026-11-26T12:00:00Z",
-      "h3_index": "86488b61fffffff",
-      "resolution": 6,
-      "latitude": 32.11,
-      "longitude": -101.551,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T12:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.6,
-      "content_hash": "ca6b82c751256a71ebe7728247cd38790a8151753eebe7cd219fafb32d640d75",
-      "observed_at_utc": "2026-11-26T12:53:16.073000+00:00",
-      "feature_vector": [
-        1.6,
-        7.93,
-        39,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "86488b257ffffff:CRUST_SHALLOW:2026-11-26T12:00:00Z",
-      "h3_index": "86488b257ffffff",
-      "resolution": 6,
-      "latitude": 32.118,
-      "longitude": -102.186,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T12:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.0,
-      "content_hash": "eb558593a561c85066d9dbd784a0f555a24d933582c9cb3d60424515e691c5cc",
-      "observed_at_utc": "2026-11-26T12:39:43.794000+00:00",
-      "feature_vector": [
-        1.0,
-        6.37,
-        15,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "865d1312fffffff:CRUST_MID:2026-11-26T12:00:00Z",
-      "h3_index": "865d1312fffffff",
-      "resolution": 6,
-      "latitude": 19.1078,
-      "longitude": -155.4428,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T12:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.77,
-      "content_hash": "b77951d1df9d32c207c8b6ac62fc4ba2523f7f3c3e29aa630c580080ce4f4925",
-      "observed_at_utc": "2026-11-26T12:38:37.680000+00:00",
-      "feature_vector": [
-        1.77,
-        29.71,
-        48,
-        0.17
-      ]
-    },
-    {
-      "tensor_coord": "866d7005fffffff:CRUST_MID:2026-11-26T12:00:00Z",
-      "h3_index": "866d7005fffffff",
-      "resolution": 6,
-      "latitude": 12.6963,
-      "longitude": -89.7824,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T12:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 4.4,
-      "content_hash": "3cb4d836356e9053f1b4441aae86b20cf1843be7233715e555209554695cb246",
-      "observed_at_utc": "2026-11-26T12:24:49.393000+00:00",
-      "feature_vector": [
-        4.4,
-        50.69,
-        298,
-        0.85
-      ]
-    },
-    {
-      "tensor_coord": "8628314a7ffffff:CRUST_SHALLOW:2026-11-26T12:00:00Z",
-      "h3_index": "8628314a7ffffff",
-      "resolution": 6,
-      "latitude": 38.817,
-      "longitude": -122.7952,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T12:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.06,
-      "content_hash": "038db0069ea7dbed1ea7a92e1d1a46ecfb26ca8176f82415f68b46d455cc193b",
-      "observed_at_utc": "2026-11-26T12:21:44.940000+00:00",
-      "feature_vector": [
-        1.06,
-        2.53,
-        17,
-        0.02
-      ]
-    },
-    {
-      "tensor_coord": "8629a6907ffffff:CRUST_SHALLOW:2026-11-26T12:00:00Z",
-      "h3_index": "8629a6907ffffff",
-      "resolution": 6,
-      "latitude": 32.8758,
-      "longitude": -116.228,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T12:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.71,
-      "content_hash": "c24216e25c4694dca3b0a0906cf98d1b90130a245891342f1704a3ebc40f8a9c",
-      "observed_at_utc": "2026-11-26T12:16:31.040000+00:00",
-      "feature_vector": [
-        2.71,
-        9.92,
-        114,
-        0.24
-      ]
-    },
-    {
-      "tensor_coord": "860c50057ffffff:MANTLE_TRANSITION:2026-11-26T12:00:00Z",
-      "h3_index": "860c50057ffffff",
-      "resolution": 6,
-      "latitude": 59.967,
-      "longitude": -152.522,
-      "depth_altitude_layer": "MANTLE_TRANSITION",
-      "time_bucket_utc": "2026-11-26T12:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.4,
-      "content_hash": "0246fc71a02d12aa8680237d774963ac712c0af113ee2c0ebef9798b9e1c7bd9",
-      "observed_at_utc": "2026-11-26T12:10:44.604000+00:00",
-      "feature_vector": [
-        2.4,
-        101.0,
-        89,
-        0.7
-      ]
-    },
-    {
-      "tensor_coord": "860ce8c8fffffff:CRUST_MID:2026-11-26T12:00:00Z",
-      "h3_index": "860ce8c8fffffff",
-      "resolution": 6,
-      "latitude": 57.913,
-      "longitude": -155.814,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T12:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.3,
-      "content_hash": "17ce6cedd8e19ef209a545f45abb8dec9414467fa824e9bc0a3594f1b78e2646",
-      "observed_at_utc": "2026-11-26T12:08:49.742000+00:00",
-      "feature_vector": [
-        1.3,
-        19.7,
-        26,
-        0.3
-      ]
-    },
-    {
-      "tensor_coord": "86283159fffffff:CRUST_SHALLOW:2026-11-26T11:00:00Z",
-      "h3_index": "86283159fffffff",
-      "resolution": 6,
-      "latitude": 38.773,
-      "longitude": -122.7442,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T11:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.06,
-      "content_hash": "96ae3bf33c5bf61d9e429adc8cc661ba3a069fee5fcccb2941b9680d605ce439",
-      "observed_at_utc": "2026-11-26T11:41:32.960000+00:00",
-      "feature_vector": [
-        1.06,
-        2.1,
-        17,
-        0.02
-      ]
-    },
-    {
-      "tensor_coord": "864889a5fffffff:CRUST_SHALLOW:2026-11-26T11:00:00Z",
-      "h3_index": "864889a5fffffff",
-      "resolution": 6,
-      "latitude": 31.318,
-      "longitude": -103.621,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T11:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.0,
-      "content_hash": "d2365a2ef03d39bffb52b1d741694b212dc7d6aad2c91d5b348ef6b6f9f73dde",
-      "observed_at_utc": "2026-11-26T11:27:02.802000+00:00",
-      "feature_vector": [
-        1.0,
-        5.18,
-        15,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "8648d4bb7ffffff:CRUST_SHALLOW:2026-11-26T11:00:00Z",
-      "h3_index": "8648d4bb7ffffff",
-      "resolution": 6,
-      "latitude": 31.661,
-      "longitude": -104.432,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T11:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.6,
-      "content_hash": "b90b93b35e853004328bf04e11f65f63c00a9345be3d4ce31497e64fa8ac6379",
-      "observed_at_utc": "2026-11-26T11:23:18.613000+00:00",
-      "feature_vector": [
-        1.6,
-        6.1,
-        39,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "8629a6907ffffff:CRUST_MID:2026-11-26T11:00:00Z",
-      "h3_index": "8629a6907ffffff",
-      "resolution": 6,
-      "latitude": 32.877,
-      "longitude": -116.2202,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T11:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.84,
-      "content_hash": "2ffb45279ac061ea97b7c356c0d0f16a4c9260269ed899c4bcc6fc76f5bdfd1c",
-      "observed_at_utc": "2026-11-26T11:19:10.700000+00:00",
-      "feature_vector": [
-        0.84,
-        11.43,
-        11,
-        0.13
-      ]
-    },
-    {
-      "tensor_coord": "8629a9a87ffffff:CRUST_SHALLOW:2026-11-26T11:00:00Z",
-      "h3_index": "8629a9a87ffffff",
-      "resolution": 6,
-      "latitude": 36.5993,
-      "longitude": -121.2215,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T11:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.44,
-      "content_hash": "b811ba228bb9a822dedb7a08cf7b923ac4eaa63a126530a3b6554917a9b4edf8",
-      "observed_at_utc": "2026-11-26T11:18:41.640000+00:00",
-      "feature_vector": [
-        1.44,
-        6.61,
-        32,
-        0.06
-      ]
-    },
-    {
-      "tensor_coord": "860c73807ffffff:CRUST_MID:2026-11-26T11:00:00Z",
-      "h3_index": "860c73807ffffff",
-      "resolution": 6,
-      "latitude": 61.745,
-      "longitude": -149.578,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T11:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.9,
-      "content_hash": "c520d1b25bcd8d29967b95fa27ec57462253b108631e8ef50f8f1e989f882fe8",
-      "observed_at_utc": "2026-11-26T11:14:09.812000+00:00",
-      "feature_vector": [
-        1.9,
-        15.0,
-        56,
-        0.7
-      ]
-    },
-    {
-      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-26T11:00:00Z",
-      "h3_index": "8628314afffffff",
-      "resolution": 6,
-      "latitude": 38.8178,
-      "longitude": -122.8208,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T11:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.61,
-      "content_hash": "de953c134fde5ee98540dbae1cc2b9c04d0bf0f21bc69598863ef381375fe647",
-      "observed_at_utc": "2026-11-26T11:06:59.340000+00:00",
-      "feature_vector": [
-        0.61,
-        1.62,
-        6,
-        0.01
-      ]
-    },
-    {
-      "tensor_coord": "860ced56fffffff:MANTLE_TRANSITION:2026-11-26T11:00:00Z",
-      "h3_index": "860ced56fffffff",
-      "resolution": 6,
-      "latitude": 58.159,
-      "longitude": -153.706,
-      "depth_altitude_layer": "MANTLE_TRANSITION",
-      "time_bucket_utc": "2026-11-26T11:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.9,
-      "content_hash": "0c9f35da3de06a5b1686daf043aebf731b990813ef03421784d1fdac350b1792",
-      "observed_at_utc": "2026-11-26T11:04:21.778000+00:00",
-      "feature_vector": [
-        1.9,
-        78.9,
-        56,
-        0.1
-      ]
-    },
-    {
-      "tensor_coord": "860c44d57ffffff:CRUST_MID:2026-11-26T10:00:00Z",
-      "h3_index": "860c44d57ffffff",
-      "resolution": 6,
-      "latitude": 61.457,
-      "longitude": -146.603,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T10:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.4,
-      "content_hash": "35a63e829571fa5678f649cc48be54676a7b6d8c2c9120a471e36157e3860046",
-      "observed_at_utc": "2026-11-26T10:43:13.157000+00:00",
-      "feature_vector": [
-        2.4,
-        14.2,
-        89,
-        0.9
-      ]
-    },
-    {
-      "tensor_coord": "8629861b7ffffff:CRUST_MID:2026-11-26T10:00:00Z",
-      "h3_index": "8629861b7ffffff",
-      "resolution": 6,
-      "latitude": 36.1309,
-      "longitude": -114.6279,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T10:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.56,
-      "content_hash": "622f271e94cb61faa5923563e0272d86aa4f3cd6546112db7bf6f486c1935b5d",
-      "observed_at_utc": "2026-11-26T10:37:26.877000+00:00",
-      "feature_vector": [
-        1.56,
-        16.0,
-        37,
-        0.427
-      ]
-    },
-    {
-      "tensor_coord": "8648d6497ffffff:CRUST_SHALLOW:2026-11-26T10:00:00Z",
-      "h3_index": "8648d6497ffffff",
-      "resolution": 6,
-      "latitude": 32.435,
-      "longitude": -102.112,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T10:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.9,
-      "content_hash": "dbe3cec1723117cfda4f56a2471c824c6e6f858e4a76bb84bdca79c3d9b087ca",
-      "observed_at_utc": "2026-11-26T10:29:51.050000+00:00",
-      "feature_vector": [
-        0.9,
-        7.71,
-        12,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-26T10:00:00Z",
-      "h3_index": "8628314afffffff",
-      "resolution": 6,
-      "latitude": 38.8353,
-      "longitude": -122.7933,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T10:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.08,
-      "content_hash": "dac9a73e5ea173617affbe78cddc793ff2305968c168b4b454381b484ea6c055",
-      "observed_at_utc": "2026-11-26T10:26:23.620000+00:00",
-      "feature_vector": [
-        2.08,
-        2.12,
-        67,
-        0.04
-      ]
-    },
-    {
-      "tensor_coord": "86488222fffffff:CRUST_SHALLOW:2026-11-26T10:00:00Z",
-      "h3_index": "86488222fffffff",
-      "resolution": 6,
-      "latitude": 28.765,
-      "longitude": -99.026,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T10:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.1,
-      "content_hash": "ae5d33acf3d45cf0993b176afbbe58f80d14cc300b10040036c24a3f56f53d5f",
-      "observed_at_utc": "2026-11-26T10:18:49.832000+00:00",
-      "feature_vector": [
-        1.1,
-        7.69,
-        19,
-        0.4
-      ]
-    },
-    {
-      "tensor_coord": "860c296efffffff:CRUST_SHALLOW:2026-11-26T10:00:00Z",
-      "h3_index": "860c296efffffff",
-      "resolution": 6,
-      "latitude": 63.557,
-      "longitude": -150.997,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T10:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.7,
-      "content_hash": "dc904cd330f84b19af94bccdfc4f3a0b2a4b1447fb572dbf8b814a25b81944ca",
-      "observed_at_utc": "2026-11-26T10:18:09.495000+00:00",
-      "feature_vector": [
-        1.7,
-        0.9,
-        44,
-        0.4
-      ]
-    },
-    {
-      "tensor_coord": "86283159fffffff:ATMOSPHERE_LOW:2026-11-26T10:00:00Z",
-      "h3_index": "86283159fffffff",
-      "resolution": 6,
-      "latitude": 38.7405,
-      "longitude": -122.6977,
-      "depth_altitude_layer": "ATMOSPHERE_LOW",
-      "time_bucket_utc": "2026-11-26T10:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.77,
-      "content_hash": "73ac027fe50236087b1fb5f947e4031f9005d2fd8e3d235b18408b3babbc5943",
-      "observed_at_utc": "2026-11-26T10:17:02.810000+00:00",
-      "feature_vector": [
-        0.77,
-        -0.02,
-        9,
-        0.03
-      ]
-    },
-    {
-      "tensor_coord": "8648d44efffffff:CRUST_SHALLOW:2026-11-26T10:00:00Z",
-      "h3_index": "8648d44efffffff",
-      "resolution": 6,
-      "latitude": 32.07,
-      "longitude": -103.679,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T10:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.3,
-      "content_hash": "9a4ebb27b1307c1a0edc312acf97db68ac5a53c1a7e7e1b9faf4aef07cb0a5ef",
-      "observed_at_utc": "2026-11-26T10:16:23.574000+00:00",
-      "feature_vector": [
-        1.3,
-        7.69,
-        26,
-        0.1
-      ]
-    },
-    {
-      "tensor_coord": "8629a0c27ffffff:CRUST_MID:2026-11-26T10:00:00Z",
-      "h3_index": "8629a0c27ffffff",
-      "resolution": 6,
-      "latitude": 33.5645,
-      "longitude": -116.9393,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T10:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.13,
-      "content_hash": "0062ef1161aa0fcd5d8e808579416a70a7e1d18dd4f9b372dc5d48cc43d71872",
-      "observed_at_utc": "2026-11-26T10:14:11.780000+00:00",
-      "feature_vector": [
-        1.13,
-        12.14,
-        20,
-        0.17
-      ]
-    },
-    {
-      "tensor_coord": "86298eb2fffffff:CRUST_SHALLOW:2026-11-26T10:00:00Z",
-      "h3_index": "86298eb2fffffff",
-      "resolution": 6,
-      "latitude": 38.176,
-      "longitude": -117.8679,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T10:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.67,
-      "content_hash": "c785b7126e1e63a29794d58b1ea95bb3bb1bb166cce55f6ad81445d82c67759d",
-      "observed_at_utc": "2026-11-26T10:02:01.856000+00:00",
-      "feature_vector": [
-        1.67,
-        0.04,
-        43,
-        0.166
-      ]
-    },
-    {
-      "tensor_coord": "860c50767ffffff:MANTLE_TRANSITION:2026-11-26T09:00:00Z",
-      "h3_index": "860c50767ffffff",
-      "resolution": 6,
-      "latitude": 59.824,
-      "longitude": -152.657,
-      "depth_altitude_layer": "MANTLE_TRANSITION",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.8,
-      "content_hash": "b8c99dbae9be4319617e6749496216daaa47423c1489d5efe84d1347a79e2d2b",
-      "observed_at_utc": "2026-11-26T09:47:01.508000+00:00",
-      "feature_vector": [
-        1.8,
-        86.0,
-        50,
-        0.3
-      ]
-    },
-    {
-      "tensor_coord": "860c50c0fffffff:MANTLE_TRANSITION:2026-11-26T09:00:00Z",
-      "h3_index": "860c50c0fffffff",
-      "resolution": 6,
-      "latitude": 60.334,
-      "longitude": -152.885,
-      "depth_altitude_layer": "MANTLE_TRANSITION",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.8,
-      "content_hash": "f66e383c22600ac4a4b0134d738308f6aea22592d0d05027d90e8f792c9107ab",
-      "observed_at_utc": "2026-11-26T09:39:49.066000+00:00",
-      "feature_vector": [
-        1.8,
-        131.7,
-        50,
-        0.5
-      ]
-    },
-    {
-      "tensor_coord": "860cec647ffffff:CRUST_SHALLOW:2026-11-26T09:00:00Z",
-      "h3_index": "860cec647ffffff",
-      "resolution": 6,
-      "latitude": 58.304,
-      "longitude": -155.02,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.7,
-      "content_hash": "42813c463675ebac5b21d8b476da538718901cef3ef5484ad454d3519973f4be",
-      "observed_at_utc": "2026-11-26T09:35:39.587000+00:00",
-      "feature_vector": [
-        0.7,
-        2.1,
-        8,
-        0.5
-      ]
-    },
-    {
-      "tensor_coord": "860ccbb27ffffff:CRUST_SHALLOW:2026-11-26T09:00:00Z",
-      "h3_index": "860ccbb27ffffff",
-      "resolution": 6,
-      "latitude": 54.696,
-      "longitude": -156.964,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 3.5,
-      "content_hash": "d516fa65a78bc8b7b51be8bfd08609dd27368e155b331157978d569901d8763b",
-      "observed_at_utc": "2026-11-26T09:24:21.171000+00:00",
-      "feature_vector": [
-        3.5,
-        0.9,
-        188,
-        0.6
-      ]
-    },
-    {
-      "tensor_coord": "8626da667ffffff:CRUST_SHALLOW:2026-11-26T09:00:00Z",
-      "h3_index": "8626da667ffffff",
-      "resolution": 6,
-      "latitude": 32.378,
-      "longitude": -101.652,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.8,
-      "content_hash": "92ecf8f570f1ed2404b7e592d4d9c8da88208ecfab09fe35df62e2b5bec5f32d",
-      "observed_at_utc": "2026-11-26T09:22:53.064000+00:00",
-      "feature_vector": [
-        0.8,
-        6.57,
-        10,
-        0.1
-      ]
-    },
-    {
-      "tensor_coord": "869b7625fffffff:MANTLE_DEEP:2026-11-26T09:00:00Z",
-      "h3_index": "869b7625fffffff",
-      "resolution": 6,
-      "latitude": -20.5363,
-      "longitude": -177.7629,
-      "depth_altitude_layer": "MANTLE_DEEP",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 5.2,
-      "content_hash": "ace6979b5231a402e992c0fedc97a7b212b7e287c11654bf970e343f896db189",
-      "observed_at_utc": "2026-11-26T09:22:45.352000+00:00",
-      "feature_vector": [
-        5.2,
-        493.86,
-        416,
-        0.91
-      ]
-    },
-    {
-      "tensor_coord": "8629ac437ffffff:CRUST_MID:2026-11-26T09:00:00Z",
-      "h3_index": "8629ac437ffffff",
-      "resolution": 6,
-      "latitude": 35.0762,
-      "longitude": -119.0967,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.42,
-      "content_hash": "d71bc8140abbb07aee51f8dc058900844ab1fd7b0907aa5ff96b0076dcdd1066",
-      "observed_at_utc": "2026-11-26T09:20:45.560000+00:00",
-      "feature_vector": [
-        1.42,
-        10.73,
-        31,
-        0.29
-      ]
-    },
-    {
-      "tensor_coord": "860c51db7ffffff:CRUST_MID:2026-11-26T09:00:00Z",
-      "h3_index": "860c51db7ffffff",
-      "resolution": 6,
-      "latitude": 59.906,
-      "longitude": -151.751,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.1,
-      "content_hash": "906beafd8a51e49e7aa9e1a9dd4a1bd926b33c7099fe3de9e4ba599edc82c5b2",
-      "observed_at_utc": "2026-11-26T09:17:45.765000+00:00",
-      "feature_vector": [
-        2.1,
-        61.3,
-        68,
-        0.6
-      ]
-    },
-    {
-      "tensor_coord": "860d5acb7ffffff:CRUST_MID:2026-11-26T09:00:00Z",
-      "h3_index": "860d5acb7ffffff",
-      "resolution": 6,
-      "latitude": 64.732,
-      "longitude": -148.952,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.1,
-      "content_hash": "b8b549df2b162b95899e1f0353cb8958a360742d5a8d24d8495cdfc200f3a1e5",
-      "observed_at_utc": "2026-11-26T09:12:45.669000+00:00",
-      "feature_vector": [
-        1.1,
-        15.1,
-        19,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "8695a338fffffff:CRUST_MID:2026-11-26T09:00:00Z",
-      "h3_index": "8695a338fffffff",
-      "resolution": 6,
-      "latitude": -10.5618,
-      "longitude": 117.1955,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 5.5,
-      "content_hash": "b50d3e80ff6730f55b1bb33c83ccd9abdf4fb4cb84a3e845cbf506db4ec91d08",
-      "observed_at_utc": "2026-11-26T09:08:40.640000+00:00",
-      "feature_vector": [
-        5.5,
-        15.14,
-        465,
-        0.87
-      ]
-    },
-    {
-      "tensor_coord": "860c54b0fffffff:CRUST_MID:2026-11-26T09:00:00Z",
-      "h3_index": "860c54b0fffffff",
-      "resolution": 6,
-      "latitude": 61.16,
-      "longitude": -151.158,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.2,
-      "content_hash": "8cc7fa46fae4a5bf638c0c80e9f41bb32d9a0263dcc40d2e7cd0d2bbe8911df0",
-      "observed_at_utc": "2026-11-26T09:05:51.080000+00:00",
-      "feature_vector": [
-        2.2,
-        67.9,
-        74,
-        0.8
-      ]
-    },
-    {
-      "tensor_coord": "8695a375fffffff:CRUST_SHALLOW:2026-11-26T09:00:00Z",
-      "h3_index": "8695a375fffffff",
-      "resolution": 6,
-      "latitude": -10.773,
-      "longitude": 117.1007,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T09:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 4.8,
-      "content_hash": "56fa581a6e57bbc42be0f6025fdaee0b3e966367266aa58557b5d265d16b4c3b",
-      "observed_at_utc": "2026-11-26T09:00:41.073000+00:00",
-      "feature_vector": [
-        4.8,
-        10.0,
-        354,
-        0.82
-      ]
-    },
-    {
-      "tensor_coord": "8648d411fffffff:CRUST_SHALLOW:2026-11-26T08:00:00Z",
-      "h3_index": "8648d411fffffff",
-      "resolution": 6,
-      "latitude": 31.733,
-      "longitude": -104.113,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T08:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.6,
-      "content_hash": "6c4ef565df9085190b7f49f029ecd70453d701d189e969f7706f0e4e083f6ce6",
-      "observed_at_utc": "2026-11-26T08:59:03.126000+00:00",
-      "feature_vector": [
-        1.6,
-        7.75,
-        39,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "8648d4137ffffff:CRUST_SHALLOW:2026-11-26T08:00:00Z",
-      "h3_index": "8648d4137ffffff",
-      "resolution": 6,
-      "latitude": 31.652,
-      "longitude": -104.138,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T08:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 3.0,
-      "content_hash": "dd9cdb36a628da3ed0ff645d99ff268986b306b437a47310b253aadc4826ab3d",
-      "observed_at_utc": "2026-11-26T08:50:30.980000+00:00",
-      "feature_vector": [
-        3.0,
-        6.36,
-        139,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-26T08:00:00Z",
-      "h3_index": "8628314afffffff",
-      "resolution": 6,
-      "latitude": 38.8462,
-      "longitude": -122.8477,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T08:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.68,
-      "content_hash": "7e29c73b71d28f1d3d009a9e7eda26cff51a59f07c10627035213ab4ae1727c2",
-      "observed_at_utc": "2026-11-26T08:45:11.210000+00:00",
-      "feature_vector": [
-        0.68,
-        2.01,
-        7,
-        0.01
-      ]
-    },
-    {
-      "tensor_coord": "8629a6907ffffff:CRUST_MID:2026-11-26T08:00:00Z",
-      "h3_index": "8629a6907ffffff",
-      "resolution": 6,
-      "latitude": 32.8767,
-      "longitude": -116.2213,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T08:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.93,
-      "content_hash": "5f040b24ac98b8854efb849ed790156c1bab3591d3f5ec59883ac2fa51df5057",
-      "observed_at_utc": "2026-11-26T08:21:58.350000+00:00",
-      "feature_vector": [
-        1.93,
-        10.44,
-        57,
-        0.19
-      ]
-    },
-    {
-      "tensor_coord": "862981c5fffffff:CRUST_SHALLOW:2026-11-26T08:00:00Z",
-      "h3_index": "862981c5fffffff",
-      "resolution": 6,
-      "latitude": 37.1605,
-      "longitude": -117.092,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T08:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.65,
-      "content_hash": "adc9408a3cabd64677ee018342f40b7663b39813471e5410287cbc2acd305e0e",
-      "observed_at_utc": "2026-11-26T08:20:55.620000+00:00",
-      "feature_vector": [
-        1.65,
-        2.88,
-        42,
-        0.204
-      ]
-    },
-    {
-      "tensor_coord": "8648d6cb7ffffff:CRUST_SHALLOW:2026-11-26T08:00:00Z",
-      "h3_index": "8648d6cb7ffffff",
-      "resolution": 6,
-      "latitude": 31.991,
-      "longitude": -102.336,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T08:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.7,
-      "content_hash": "fd3ea1b1a3acde8ac6115b2b00561e4c92a65ab28c56e4a4f4d36821a0e2490d",
-      "observed_at_utc": "2026-11-26T08:10:53.670000+00:00",
-      "feature_vector": [
-        0.7,
-        6.96,
-        8,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "86488221fffffff:CRUST_SHALLOW:2026-11-26T08:00:00Z",
-      "h3_index": "86488221fffffff",
-      "resolution": 6,
-      "latitude": 28.841,
-      "longitude": -98.944,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T08:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.8,
-      "content_hash": "368fc152f7094f9f5d2974cf59ca5df8b0ecef12ff4e1b87811d9b1bd34aa20f",
-      "observed_at_utc": "2026-11-26T08:09:13.454000+00:00",
-      "feature_vector": [
-        1.8,
-        8.46,
-        50,
-        0.4
-      ]
-    },
-    {
-      "tensor_coord": "860cec66fffffff:CRUST_SHALLOW:2026-11-26T07:00:00Z",
-      "h3_index": "860cec66fffffff",
-      "resolution": 6,
-      "latitude": 58.286,
-      "longitude": -154.959,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.8,
-      "content_hash": "40c058800054beb6df4da6e04bf5d8ab86e86193994cdd3176b038cf69c11d11",
-      "observed_at_utc": "2026-11-26T07:58:44.925000+00:00",
-      "feature_vector": [
-        0.8,
-        5.0,
-        10,
-        0.3
-      ]
-    },
-    {
-      "tensor_coord": "8648d6cb7ffffff:CRUST_SHALLOW:2026-11-26T07:00:00Z",
-      "h3_index": "8648d6cb7ffffff",
-      "resolution": 6,
-      "latitude": 31.982,
-      "longitude": -102.327,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.4,
-      "content_hash": "63f1bc9d69050de5818227478555bd4843380db188e6f04d287d74fc1740c701",
-      "observed_at_utc": "2026-11-26T07:58:12.411000+00:00",
-      "feature_vector": [
-        1.4,
-        7.89,
-        30,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "8629a0d9fffffff:CRUST_MID:2026-11-26T07:00:00Z",
-      "h3_index": "8629a0d9fffffff",
-      "resolution": 6,
-      "latitude": 33.635,
-      "longitude": -116.7047,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.8,
-      "content_hash": "1b4673d259a93cbdc0a79757945a2d239c5b151ca89a6a9955f0980bd09ef42e",
-      "observed_at_utc": "2026-11-26T07:54:35.860000+00:00",
-      "feature_vector": [
-        0.8,
-        13.72,
-        10,
-        0.11
-      ]
-    },
-    {
-      "tensor_coord": "86283148fffffff:CRUST_SHALLOW:2026-11-26T07:00:00Z",
-      "h3_index": "86283148fffffff",
-      "resolution": 6,
-      "latitude": 38.8758,
-      "longitude": -122.8265,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.2,
-      "content_hash": "2d9d0068c9187e2f505daf2bb5f6de3cd13d1177f2ae550cc8be3c53b8b1e6ab",
-      "observed_at_utc": "2026-11-26T07:46:04.110000+00:00",
-      "feature_vector": [
-        1.2,
-        1.09,
-        22,
-        0.04
-      ]
-    },
-    {
-      "tensor_coord": "860ceb997ffffff:MANTLE_TRANSITION:2026-11-26T07:00:00Z",
-      "h3_index": "860ceb997ffffff",
-      "resolution": 6,
-      "latitude": 57.176,
-      "longitude": -155.461,
-      "depth_altitude_layer": "MANTLE_TRANSITION",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.2,
-      "content_hash": "301ecc3528283eff2f81399e85a96c3634fdbce98aa9a30b7908f1f96e69dd2e",
-      "observed_at_utc": "2026-11-26T07:37:05.663000+00:00",
-      "feature_vector": [
-        2.2,
-        70.6,
-        74,
-        0.5
-      ]
-    },
-    {
-      "tensor_coord": "860c44cc7ffffff:CRUST_MID:2026-11-26T07:00:00Z",
-      "h3_index": "860c44cc7ffffff",
-      "resolution": 6,
-      "latitude": 61.275,
-      "longitude": -146.904,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.8,
-      "content_hash": "46d0fe57bbb8a787a34d9cc3f06af67ddf1257424a61b43381b543b55aef05e2",
-      "observed_at_utc": "2026-11-26T07:21:22.654000+00:00",
-      "feature_vector": [
-        1.8,
-        20.6,
-        50,
-        0.6
-      ]
-    },
-    {
-      "tensor_coord": "8629a6907ffffff:CRUST_MID:2026-11-26T07:00:00Z",
-      "h3_index": "8629a6907ffffff",
-      "resolution": 6,
-      "latitude": 32.8738,
-      "longitude": -116.2208,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 3.58,
-      "content_hash": "8d36d497c61b6719edc6b3c6fe87035c63215d90c30460597659a758161b1097",
-      "observed_at_utc": "2026-11-26T07:20:41.080000+00:00",
-      "feature_vector": [
-        3.58,
-        10.63,
-        287,
-        0.27
-      ]
-    },
-    {
-      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-26T07:00:00Z",
-      "h3_index": "8628314afffffff",
-      "resolution": 6,
-      "latitude": 38.848,
-      "longitude": -122.8452,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.56,
-      "content_hash": "7633336c3110a6f4dee2855e6ee7c042e85d73e6f3013f3d0afed14a6f59b09d",
-      "observed_at_utc": "2026-11-26T07:17:21.790000+00:00",
-      "feature_vector": [
-        0.56,
-        1.49,
-        5,
-        0.01
-      ]
-    },
-    {
-      "tensor_coord": "865d1388fffffff:CRUST_MID:2026-11-26T07:00:00Z",
-      "h3_index": "865d1388fffffff",
-      "resolution": 6,
-      "latitude": 19.2308,
-      "longitude": -155.4803,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.1,
-      "content_hash": "aa55006c6ab010e4df0a0ba0234dd595a33344737c9370d734120a6284c43351",
-      "observed_at_utc": "2026-11-26T07:17:10.480000+00:00",
-      "feature_vector": [
-        2.1,
-        30.32,
-        68,
-        0.14
-      ]
-    },
-    {
-      "tensor_coord": "865d13857ffffff:CRUST_MID:2026-11-26T07:00:00Z",
-      "h3_index": "865d13857ffffff",
-      "resolution": 6,
-      "latitude": 19.3157,
-      "longitude": -155.3032,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.11,
-      "content_hash": "d8bef72a9171206a9eba2f53a9cc1683e3199bd4a3868a3c4c1c23b7ff3f5726",
-      "observed_at_utc": "2026-11-26T07:10:56.080000+00:00",
-      "feature_vector": [
-        2.11,
-        32.14,
-        68,
-        0.17
-      ]
-    },
-    {
-      "tensor_coord": "8629a6b4fffffff:CRUST_MID:2026-11-26T07:00:00Z",
-      "h3_index": "8629a6b4fffffff",
-      "resolution": 6,
-      "latitude": 33.2958,
-      "longitude": -116.7725,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T07:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.97,
-      "content_hash": "7f6c1ee7a59c7fd4def97f38693548648058abb80b314c2ba48f78e255b58656",
-      "observed_at_utc": "2026-11-26T07:04:46.910000+00:00",
-      "feature_vector": [
-        0.97,
-        10.12,
-        14,
-        0.14
-      ]
-    },
-    {
-      "tensor_coord": "8629a916fffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z",
-      "h3_index": "8629a916fffffff",
-      "resolution": 6,
-      "latitude": 36.5485,
-      "longitude": -121.1652,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.4,
-      "content_hash": "7858d51dbdf8523a3d71e47c3fc454087eeb502631a78b37eaa44c5f47b43fb1",
-      "observed_at_utc": "2026-11-26T06:53:27.790000+00:00",
-      "feature_vector": [
-        1.4,
-        0.78,
-        30,
-        0.32
-      ]
-    },
-    {
-      "tensor_coord": "8629a6907ffffff:CRUST_MID:2026-11-26T06:00:00Z",
-      "h3_index": "8629a6907ffffff",
-      "resolution": 6,
-      "latitude": 32.8737,
-      "longitude": -116.2243,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.35,
-      "content_hash": "a05205f8c285f3ab8bbfe57fee509adff8ab0c30f7fe51a884f7b90eeaf9fe74",
-      "observed_at_utc": "2026-11-26T06:47:27.190000+00:00",
-      "feature_vector": [
-        1.35,
-        10.19,
-        28,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "864cc5377ffffff:CRUST_MID:2026-11-26T06:00:00Z",
-      "h3_index": "864cc5377ffffff",
-      "resolution": 6,
-      "latitude": 18.0215,
-      "longitude": -66.3513,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.09,
-      "content_hash": "47c75aa576ada2bc4a459a0595a01dafde06ae2b2032a222d460b17c8b955352",
-      "observed_at_utc": "2026-11-26T06:43:41.850000+00:00",
-      "feature_vector": [
-        2.09,
-        14.65,
-        67,
-        0.19
-      ]
-    },
-    {
-      "tensor_coord": "86489131fffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z",
-      "h3_index": "86489131fffffff",
-      "resolution": 6,
-      "latitude": 29.088,
-      "longitude": -97.783,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.4,
-      "content_hash": "c212f9b0185a25aefc86afa86cef051651d181cf41fc6cff0c7a9dbbbd0b2e34",
-      "observed_at_utc": "2026-11-26T06:37:22.982000+00:00",
-      "feature_vector": [
-        2.4,
-        7.42,
-        89,
-        0.4
-      ]
-    },
-    {
-      "tensor_coord": "86488b257ffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z",
-      "h3_index": "86488b257ffffff",
-      "resolution": 6,
-      "latitude": 32.101,
-      "longitude": -102.169,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.1,
-      "content_hash": "ef278a6700f9f01f9140790b87fa04370403b3c7cb75a28a453cdc6a39180caf",
-      "observed_at_utc": "2026-11-26T06:36:06.124000+00:00",
-      "feature_vector": [
-        1.1,
-        7.69,
-        19,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "860cec647ffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z",
-      "h3_index": "860cec647ffffff",
-      "resolution": 6,
-      "latitude": 58.297,
-      "longitude": -154.984,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.0,
-      "content_hash": "959ce3a458192d32237cd48d65396b272cf48e5ce6bf4657564c65a2e35ec493",
-      "observed_at_utc": "2026-11-26T06:27:32.762000+00:00",
-      "feature_vector": [
-        1.0,
-        5.0,
-        15,
-        0.3
-      ]
-    },
-    {
-      "tensor_coord": "8648d44efffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z",
-      "h3_index": "8648d44efffffff",
-      "resolution": 6,
-      "latitude": 32.07,
-      "longitude": -103.681,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.0,
-      "content_hash": "7013c03b1f56df2883e1f3b5cf0d813b193d83c7dea4cf43bcbd39b11c9fc2ed",
-      "observed_at_utc": "2026-11-26T06:22:04.217000+00:00",
-      "feature_vector": [
-        2.0,
-        7.36,
-        62,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "86488222fffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z",
-      "h3_index": "86488222fffffff",
-      "resolution": 6,
-      "latitude": 28.763,
-      "longitude": -99.042,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.6,
-      "content_hash": "8c410f874dec23c24de300468b8c7707079a55dbcf17c8e9db9e0a1aae2c3097",
-      "observed_at_utc": "2026-11-26T06:20:57.298000+00:00",
-      "feature_vector": [
-        1.6,
-        8.93,
-        39,
-        0.3
-      ]
-    },
-    {
-      "tensor_coord": "86620215fffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z",
-      "h3_index": "86620215fffffff",
-      "resolution": 6,
-      "latitude": 9.8196,
-      "longitude": 57.8378,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 4.4,
-      "content_hash": "356c41ca8ac98933fffa2d0acffabc07b69cc6b6974944e6f1cfa9538c27c0ae",
-      "observed_at_utc": "2026-11-26T06:19:59.369000+00:00",
-      "feature_vector": [
-        4.4,
-        10.0,
-        298,
-        0.47
-      ]
-    },
-    {
-      "tensor_coord": "86d842a77ffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z",
-      "h3_index": "86d842a77ffffff",
-      "resolution": 6,
-      "latitude": -48.7996,
-      "longitude": 123.8744,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 4.4,
-      "content_hash": "331bbbc51855d3d4bd5d5d7457e76beab1351463f1a8f1930be97573bb44cbed",
-      "observed_at_utc": "2026-11-26T06:17:19.522000+00:00",
-      "feature_vector": [
-        4.4,
-        10.0,
-        298,
-        0.81
-      ]
-    },
-    {
-      "tensor_coord": "860c7262fffffff:MANTLE_TRANSITION:2026-11-26T06:00:00Z",
-      "h3_index": "860c7262fffffff",
-      "resolution": 6,
-      "latitude": 61.699,
-      "longitude": -151.96,
-      "depth_altitude_layer": "MANTLE_TRANSITION",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.8,
-      "content_hash": "c3a104fe820ae21ba2179d9c1199d42521211042d598065035b7ce47f7d868ca",
-      "observed_at_utc": "2026-11-26T06:15:05.169000+00:00",
-      "feature_vector": [
-        1.8,
-        116.7,
-        50,
-        0.5
-      ]
-    },
-    {
-      "tensor_coord": "860c72087ffffff:MANTLE_TRANSITION:2026-11-26T06:00:00Z",
-      "h3_index": "860c72087ffffff",
-      "resolution": 6,
-      "latitude": 62.002,
-      "longitude": -151.927,
-      "depth_altitude_layer": "MANTLE_TRANSITION",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.7,
-      "content_hash": "a460176f4a19972e520f7cea8a9a3540443577b06a8e7894d34203169cfa7a27",
-      "observed_at_utc": "2026-11-26T06:08:58.832000+00:00",
-      "feature_vector": [
-        1.7,
-        111.8,
-        44,
-        0.1
-      ]
-    },
-    {
-      "tensor_coord": "8629a0197ffffff:CRUST_MID:2026-11-26T06:00:00Z",
-      "h3_index": "8629a0197ffffff",
-      "resolution": 6,
-      "latitude": 33.9095,
-      "longitude": -117.0325,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.95,
-      "content_hash": "c6e903b36f1fa67a1a69a03994022b0dfb0569a27f92ae7f8f665d49e74cd094",
-      "observed_at_utc": "2026-11-26T06:06:38.840000+00:00",
-      "feature_vector": [
-        0.95,
-        15.83,
-        14,
-        0.12
-      ]
-    },
-    {
-      "tensor_coord": "8648d48efffffff:CRUST_SHALLOW:2026-11-26T06:00:00Z",
-      "h3_index": "8648d48efffffff",
-      "resolution": 6,
-      "latitude": 31.643,
-      "longitude": -104.389,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T06:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.5,
-      "content_hash": "d0a2b538ca7685f01dbc514f17e19ed1a959a45f9c91b1f0487caf23af0c357b",
-      "observed_at_utc": "2026-11-26T06:05:00.422000+00:00",
-      "feature_vector": [
-        1.5,
-        6.13,
-        35,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "864cc5757ffffff:CRUST_MID:2026-11-26T05:00:00Z",
-      "h3_index": "864cc5757ffffff",
-      "resolution": 6,
-      "latitude": 18.0117,
-      "longitude": -66.7622,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.11,
-      "content_hash": "4c711472e3df7e09d39666f5687a2a037d6b470f8be16f7404cebf588a38f7f5",
-      "observed_at_utc": "2026-11-26T05:48:09.480000+00:00",
-      "feature_vector": [
-        2.11,
-        13.68,
-        68,
-        0.24
-      ]
-    },
-    {
-      "tensor_coord": "8629a004fffffff:CRUST_SHALLOW:2026-11-26T05:00:00Z",
-      "h3_index": "8629a004fffffff",
-      "resolution": 6,
-      "latitude": 34.1113,
-      "longitude": -117.469,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.16,
-      "content_hash": "1ba1f79533bd157d54c22de37f1a553822060193911f94203dec3701506c3902",
-      "observed_at_utc": "2026-11-26T05:46:48.730000+00:00",
-      "feature_vector": [
-        1.16,
-        6.8,
-        21,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "8629a1167ffffff:CRUST_MID:2026-11-26T05:00:00Z",
-      "h3_index": "8629a1167ffffff",
-      "resolution": 6,
-      "latitude": 34.3427,
-      "longitude": -118.6738,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.44,
-      "content_hash": "c81266a05cbd2b84c2825cc6c5e5d1731e3b041b5c08b302f14ea336a558735b",
-      "observed_at_utc": "2026-11-26T05:37:13.310000+00:00",
-      "feature_vector": [
-        1.44,
-        14.11,
-        32,
-        0.31
-      ]
-    },
-    {
-      "tensor_coord": "860c09b4fffffff:CRUST_SHALLOW:2026-11-26T05:00:00Z",
-      "h3_index": "860c09b4fffffff",
-      "resolution": 6,
-      "latitude": 61.676,
-      "longitude": -152.559,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.2,
-      "content_hash": "125af0f20aad8c2d2954b71b26bfb5570a5aacec4f4f09446b8969942057e12c",
-      "observed_at_utc": "2026-11-26T05:36:31.162000+00:00",
-      "feature_vector": [
-        2.2,
-        5.0,
-        74,
-        0.7
-      ]
-    },
-    {
-      "tensor_coord": "864882447ffffff:CRUST_SHALLOW:2026-11-26T05:00:00Z",
-      "h3_index": "864882447ffffff",
-      "resolution": 6,
-      "latitude": 28.537,
-      "longitude": -98.369,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.2,
-      "content_hash": "5ae094a7af6814b9308b6f159348273069191d96d48621f6a8d9be4df7af765c",
-      "observed_at_utc": "2026-11-26T05:34:22.708000+00:00",
-      "feature_vector": [
-        1.2,
-        8.41,
-        22,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "86283170fffffff:CRUST_SHALLOW:2026-11-26T05:00:00Z",
-      "h3_index": "86283170fffffff",
-      "resolution": 6,
-      "latitude": 38.9507,
-      "longitude": -123.311,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.04,
-      "content_hash": "6bc741310b6ae597da28410cdbed1d53365e1c9d282f71b156d4ea02b6caaf69",
-      "observed_at_utc": "2026-11-26T05:27:10.160000+00:00",
-      "feature_vector": [
-        2.04,
-        0.46,
-        64,
-        0.03
-      ]
-    },
-    {
-      "tensor_coord": "860cec65fffffff:CRUST_SHALLOW:2026-11-26T05:00:00Z",
-      "h3_index": "860cec65fffffff",
-      "resolution": 6,
-      "latitude": 58.234,
-      "longitude": -155.105,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.8,
-      "content_hash": "6fbd337d48879ace057bbae45f853bcf065c86567a1607d2d0bbd392f3f17cd1",
-      "observed_at_utc": "2026-11-26T05:17:47.728000+00:00",
-      "feature_vector": [
-        0.8,
-        5.0,
-        10,
-        0.1
-      ]
-    },
-    {
-      "tensor_coord": "860c712cfffffff:CRUST_MID:2026-11-26T05:00:00Z",
-      "h3_index": "860c712cfffffff",
-      "resolution": 6,
-      "latitude": 61.239,
-      "longitude": -147.697,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.6,
-      "content_hash": "2bb9c6500cda9e7d8d9b158c0df8ec944943a681cdf69ae9c9e74295f9e85cde",
-      "observed_at_utc": "2026-11-26T05:13:39.999000+00:00",
-      "feature_vector": [
-        1.6,
-        15.6,
-        39,
-        0.6
-      ]
-    },
-    {
-      "tensor_coord": "862802b47ffffff:CRUST_MID:2026-11-26T05:00:00Z",
-      "h3_index": "862802b47ffffff",
-      "resolution": 6,
-      "latitude": 40.5598,
-      "longitude": -124.2935,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.83,
-      "content_hash": "f68d202d3f119763d141de04face19efe45abe9ad699c572637a790fd0229ed1",
-      "observed_at_utc": "2026-11-26T05:08:25.120000+00:00",
-      "feature_vector": [
-        2.83,
-        16.52,
-        125,
-        0.14
-      ]
-    },
-    {
-      "tensor_coord": "8648d44efffffff:CRUST_SHALLOW:2026-11-26T05:00:00Z",
-      "h3_index": "8648d44efffffff",
-      "resolution": 6,
-      "latitude": 32.074,
-      "longitude": -103.68,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.2,
-      "content_hash": "3ea8159261dc74d82a75fa6e8c20d9f938529baddcf24cb361ca3e44c5982300",
-      "observed_at_utc": "2026-11-26T05:03:42.374000+00:00",
-      "feature_vector": [
-        1.2,
-        7.89,
-        22,
-        0.1
-      ]
-    },
-    {
-      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-26T05:00:00Z",
-      "h3_index": "8628314afffffff",
-      "resolution": 6,
-      "latitude": 38.847,
-      "longitude": -122.8463,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T05:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.94,
-      "content_hash": "9308ab215d027170cb6e88c77defaed8ee9d634275b81e483a6d622fb5b508e1",
-      "observed_at_utc": "2026-11-26T05:00:33.840000+00:00",
-      "feature_vector": [
-        0.94,
-        2.33,
-        14,
-        0.01
-      ]
-    },
-    {
-      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-26T04:00:00Z",
-      "h3_index": "8628314afffffff",
-      "resolution": 6,
-      "latitude": 38.8365,
-      "longitude": -122.8032,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T04:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.1,
-      "content_hash": "7c6fd6a472217eb0214fbb15cd3e112b4b47e9e0d24a36cb1c5658052028deae",
-      "observed_at_utc": "2026-11-26T04:55:29.590000+00:00",
-      "feature_vector": [
-        1.1,
-        2.04,
-        19,
-        0.02
-      ]
-    },
-    {
-      "tensor_coord": "8648d446fffffff:CRUST_SHALLOW:2026-11-26T04:00:00Z",
-      "h3_index": "8648d446fffffff",
-      "resolution": 6,
-      "latitude": 32.0,
-      "longitude": -103.833,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T04:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.4,
-      "content_hash": "ffc2622fd8650ee9cc367b2f91e1fa9d883a413c79cefccc5e71bcbebe8f11db",
-      "observed_at_utc": "2026-11-26T04:52:42.309000+00:00",
-      "feature_vector": [
-        1.4,
-        7.57,
-        30,
-        0.1
-      ]
-    },
-    {
-      "tensor_coord": "86488221fffffff:CRUST_SHALLOW:2026-11-26T04:00:00Z",
-      "h3_index": "86488221fffffff",
-      "resolution": 6,
-      "latitude": 28.826,
-      "longitude": -98.933,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T04:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.1,
-      "content_hash": "5de7cb80fe2284a7ceb414b9cab2e90ef4f6f3aec3d37436e3cdcde521c65a0e",
-      "observed_at_utc": "2026-11-26T04:39:43.101000+00:00",
-      "feature_vector": [
-        2.1,
-        8.09,
-        68,
-        0.4
-      ]
-    },
-    {
-      "tensor_coord": "860c54c67ffffff:CRUST_SHALLOW:2026-11-26T04:00:00Z",
-      "h3_index": "860c54c67ffffff",
-      "resolution": 6,
-      "latitude": 61.347,
-      "longitude": -152.226,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T04:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.6,
-      "content_hash": "e85cbdedb167b7663b2a211eaac5010579f7110db443f3a3ce74850b4fb9f020",
-      "observed_at_utc": "2026-11-26T04:14:36.514000+00:00",
-      "feature_vector": [
-        0.6,
-        5.0,
-        6,
-        0.9
-      ]
-    },
-    {
-      "tensor_coord": "8629a6b07ffffff:CRUST_SHALLOW:2026-11-26T04:00:00Z",
-      "h3_index": "8629a6b07ffffff",
-      "resolution": 6,
-      "latitude": 33.1567,
-      "longitude": -116.5227,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T04:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.57,
-      "content_hash": "2ce26935f45dc45d2f208924af02750f70e7fd98ba8596209da5acf610290a77",
-      "observed_at_utc": "2026-11-26T04:10:01.200000+00:00",
-      "feature_vector": [
-        0.57,
-        6.41,
-        5,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "8648d44efffffff:CRUST_SHALLOW:2026-11-26T04:00:00Z",
-      "h3_index": "8648d44efffffff",
-      "resolution": 6,
-      "latitude": 32.073,
-      "longitude": -103.68,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T04:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.7,
-      "content_hash": "517fe3da010f5d543bfa565455c5e051fa389bcb423819c18624e881ad156032",
-      "observed_at_utc": "2026-11-26T04:06:03.237000+00:00",
-      "feature_vector": [
-        1.7,
-        7.6,
-        44,
-        0.1
-      ]
-    },
-    {
-      "tensor_coord": "86298eb2fffffff:CRUST_SHALLOW:2026-11-26T03:00:00Z",
-      "h3_index": "86298eb2fffffff",
-      "resolution": 6,
-      "latitude": 38.1882,
-      "longitude": -117.875,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.67,
-      "content_hash": "eb8d7bd40706b17c8378bd4b26ba7cbac4c78e4529f824394b4e0c877e075749",
-      "observed_at_utc": "2026-11-26T03:57:29.009000+00:00",
-      "feature_vector": [
-        1.67,
-        1.51,
-        43,
-        0.292
-      ]
-    },
-    {
-      "tensor_coord": "8629a0d9fffffff:CRUST_MID:2026-11-26T03:00:00Z",
-      "h3_index": "8629a0d9fffffff",
-      "resolution": 6,
-      "latitude": 33.6557,
-      "longitude": -116.7127,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.86,
-      "content_hash": "cd74107506ad1ec34ef02f26e6df9a5adf516df01ebe150ccbc04c346ef9076a",
-      "observed_at_utc": "2026-11-26T03:47:37.930000+00:00",
-      "feature_vector": [
-        0.86,
-        15.74,
-        11,
-        0.11
-      ]
-    },
-    {
-      "tensor_coord": "8648d44efffffff:CRUST_SHALLOW:2026-11-26T03:00:00Z",
-      "h3_index": "8648d44efffffff",
-      "resolution": 6,
-      "latitude": 32.074,
-      "longitude": -103.682,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.0,
-      "content_hash": "988087c12cfe70d712d0539cbd1fed4dd7b9de6f7ab391fe1fb3182651ddb812",
-      "observed_at_utc": "2026-11-26T03:44:45.475000+00:00",
-      "feature_vector": [
-        1.0,
-        7.41,
-        15,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "8622c0d77ffffff:CRUST_SHALLOW:2026-11-26T03:00:00Z",
-      "h3_index": "8622c0d77ffffff",
-      "resolution": 6,
-      "latitude": 52.7933,
-      "longitude": -169.8785,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.41,
-      "content_hash": "a6bbd8e583fee30a07e0be92736fd16db22be7bbd059c7f359e68d44100d9621",
-      "observed_at_utc": "2026-11-26T03:44:02.430000+00:00",
-      "feature_vector": [
-        1.41,
-        8.22,
-        31,
-        0.05
-      ]
-    },
-    {
-      "tensor_coord": "866d0132fffffff:CRUST_SHALLOW:2026-11-26T03:00:00Z",
-      "h3_index": "866d0132fffffff",
-      "resolution": 6,
-      "latitude": 14.164,
-      "longitude": -93.126,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 4.6,
-      "content_hash": "cb79a13b46e589155adbba511a86d164c513f0b50a49ca1a3ed98281811e9eaf",
-      "observed_at_utc": "2026-11-26T03:30:28.511000+00:00",
-      "feature_vector": [
-        4.6,
-        10.0,
-        326,
-        0.91
-      ]
-    },
-    {
-      "tensor_coord": "865d1395fffffff:ATMOSPHERE_LOW:2026-11-26T03:00:00Z",
-      "h3_index": "865d1395fffffff",
-      "resolution": 6,
-      "latitude": 19.402,
-      "longitude": -155.2888,
-      "depth_altitude_layer": "ATMOSPHERE_LOW",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.03,
-      "content_hash": "77a0a5c80442f13e502a6e546f009fb8f87d30728224227c512da72c2a456b28",
-      "observed_at_utc": "2026-11-26T03:26:49.790000+00:00",
-      "feature_vector": [
-        2.03,
-        -0.18,
-        63,
-        0.28
-      ]
-    },
-    {
-      "tensor_coord": "8648d4887ffffff:CRUST_SHALLOW:2026-11-26T03:00:00Z",
-      "h3_index": "8648d4887ffffff",
-      "resolution": 6,
-      "latitude": 31.517,
-      "longitude": -104.151,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.5,
-      "content_hash": "e842c209d401ed7c56187a0e7ff7277dbc68fc72dfe1b0e3d11ad8a1e5e6a589",
-      "observed_at_utc": "2026-11-26T03:25:44.200000+00:00",
-      "feature_vector": [
-        1.5,
-        7.89,
-        35,
-        0.1
-      ]
-    },
-    {
-      "tensor_coord": "8622d00b7ffffff:CRUST_SHALLOW:2026-11-26T03:00:00Z",
-      "h3_index": "8622d00b7ffffff",
-      "resolution": 6,
-      "latitude": 54.1468,
-      "longitude": -165.9882,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": -0.83,
-      "content_hash": "3aac83231f4b6053fedbf0408f065739d810be1e3429fdb3d18471ba3e9bc0a9",
-      "observed_at_utc": "2026-11-26T03:24:05.680000+00:00",
-      "feature_vector": [
-        -0.83,
-        1.89,
-        0,
-        0.17
-      ]
-    },
-    {
-      "tensor_coord": "860c53b57ffffff:CRUST_MID:2026-11-26T03:00:00Z",
-      "h3_index": "860c53b57ffffff",
-      "resolution": 6,
-      "latitude": 59.177,
-      "longitude": -152.095,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 3.0,
-      "content_hash": "b9a12c820426ecce0db72c55b3398ce3ac888965dfe6fae44ef361602addb17d",
-      "observed_at_utc": "2026-11-26T03:22:48.564000+00:00",
-      "feature_vector": [
-        3.0,
-        54.8,
-        138,
-        0.7
-      ]
-    },
-    {
-      "tensor_coord": "8648d4897ffffff:CRUST_SHALLOW:2026-11-26T03:00:00Z",
-      "h3_index": "8648d4897ffffff",
-      "resolution": 6,
-      "latitude": 31.554,
-      "longitude": -104.124,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.5,
-      "content_hash": "c8b2bf3aa887c122c3582ab4e317974998eada9460d2ef524a4cff58c394cd53",
-      "observed_at_utc": "2026-11-26T03:20:08.154000+00:00",
-      "feature_vector": [
-        1.5,
-        6.13,
-        35,
-        0.1
-      ]
-    },
-    {
-      "tensor_coord": "8629a6b4fffffff:CRUST_MID:2026-11-26T03:00:00Z",
-      "h3_index": "8629a6b4fffffff",
-      "resolution": 6,
-      "latitude": 33.297,
-      "longitude": -116.7732,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.97,
-      "content_hash": "252b4ec6aae5661071f0a9d6d2fdbda9c0849be2cba618e031bb98d9c6e10b44",
-      "observed_at_utc": "2026-11-26T03:10:08.520000+00:00",
-      "feature_vector": [
-        0.97,
-        10.32,
-        14,
-        0.15
-      ]
-    },
-    {
-      "tensor_coord": "864cc568fffffff:CRUST_MID:2026-11-26T03:00:00Z",
-      "h3_index": "864cc568fffffff",
-      "resolution": 6,
-      "latitude": 17.9037,
-      "longitude": -66.9253,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T03:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.24,
-      "content_hash": "8dd6ce57826fd15cd7bdb959ccfdffb04672d6cdd2901182cb0badc422c91727",
-      "observed_at_utc": "2026-11-26T03:08:51.010000+00:00",
-      "feature_vector": [
-        2.24,
-        15.5,
-        77,
-        0.06
-      ]
-    },
-    {
-      "tensor_coord": "8622c411fffffff:CRUST_SHALLOW:2026-11-26T02:00:00Z",
-      "h3_index": "8622c411fffffff",
-      "resolution": 6,
-      "latitude": 52.0457,
-      "longitude": -169.7865,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T02:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 3.7,
-      "content_hash": "1bfb6fdd76d3bf1ba9e488b8b54e2ea5a68096ff430d0284e444b044600690c3",
-      "observed_at_utc": "2026-11-26T02:47:44.683000+00:00",
-      "feature_vector": [
-        3.7,
-        5.08,
-        211,
-        0.65
-      ]
-    },
-    {
-      "tensor_coord": "86165ab17ffffff:CRUST_MID:2026-11-26T02:00:00Z",
-      "h3_index": "86165ab17ffffff",
-      "resolution": 6,
-      "latitude": 51.5804,
-      "longitude": 176.7852,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T02:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 4.3,
-      "content_hash": "40d362b92135df1bea41b32a9e8d5499cfc4c13857eb64bb9e81be4d40c723a3",
-      "observed_at_utc": "2026-11-26T02:32:05.646000+00:00",
-      "feature_vector": [
-        4.3,
-        37.22,
-        284,
-        1.06
-      ]
-    },
-    {
-      "tensor_coord": "860c54187ffffff:CRUST_MID:2026-11-26T02:00:00Z",
-      "h3_index": "860c54187ffffff",
-      "resolution": 6,
-      "latitude": 61.128,
-      "longitude": -152.349,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T02:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.5,
-      "content_hash": "b085b0a95109b506590af9208653589fb63bbe21d1dfcd187638ef3ba434783f",
-      "observed_at_utc": "2026-11-26T02:24:51.111000+00:00",
-      "feature_vector": [
-        1.5,
-        11.1,
-        35,
-        0.4
-      ]
-    },
-    {
-      "tensor_coord": "864cc5c37ffffff:CRUST_MID:2026-11-26T02:00:00Z",
-      "h3_index": "864cc5c37ffffff",
-      "resolution": 6,
-      "latitude": 18.6083,
-      "longitude": -66.937,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T02:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.47,
-      "content_hash": "67c7c88ad02ab79fb94fd47afb61b182b1e1ee955576b6de056aac3f90515921",
-      "observed_at_utc": "2026-11-26T02:23:25.200000+00:00",
-      "feature_vector": [
-        2.47,
-        22.09,
-        94,
-        0.3
-      ]
-    },
-    {
-      "tensor_coord": "8629a1d87ffffff:CRUST_SHALLOW:2026-11-26T02:00:00Z",
-      "h3_index": "8629a1d87ffffff",
-      "resolution": 6,
-      "latitude": 34.1142,
-      "longitude": -117.9658,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T02:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.01,
-      "content_hash": "4caf6e60d392eb9004aa0105dd4f6d20a6ed35a0586171890ee2cd235b3fc601",
-      "observed_at_utc": "2026-11-26T02:21:58.900000+00:00",
-      "feature_vector": [
-        1.01,
-        9.56,
-        16,
-        0.18
-      ]
-    },
-    {
-      "tensor_coord": "8628314afffffff:CRUST_SHALLOW:2026-11-26T02:00:00Z",
-      "h3_index": "8628314afffffff",
-      "resolution": 6,
-      "latitude": 38.807,
-      "longitude": -122.8197,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T02:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.03,
-      "content_hash": "9c2318efa8a0e291bb9117d8a41c4b22aa8b73cf5c3e9f7b1d2166750ff49781",
-      "observed_at_utc": "2026-11-26T02:18:54.060000+00:00",
-      "feature_vector": [
-        1.03,
-        2.46,
-        16,
-        0.02
-      ]
-    },
-    {
-      "tensor_coord": "8628314b7ffffff:CRUST_SHALLOW:2026-11-26T02:00:00Z",
-      "h3_index": "8628314b7ffffff",
-      "resolution": 6,
-      "latitude": 38.7988,
-      "longitude": -122.7352,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T02:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.03,
-      "content_hash": "177f9f8d6054008c49687cc39ed5135320ca14e78c5f43e270da61d11717b814",
-      "observed_at_utc": "2026-11-26T02:17:41.770000+00:00",
-      "feature_vector": [
-        1.03,
-        0.63,
-        16,
-        0.02
-      ]
-    },
-    {
-      "tensor_coord": "86298d44fffffff:CRUST_SHALLOW:2026-11-26T02:00:00Z",
-      "h3_index": "86298d44fffffff",
-      "resolution": 6,
-      "latitude": 38.583,
-      "longitude": -119.4449,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T02:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.67,
-      "content_hash": "a8c94575173901afe3a3a57bb374410de19e97295fa576dc640cfe5598fe6007",
-      "observed_at_utc": "2026-11-26T02:10:19.982000+00:00",
-      "feature_vector": [
-        1.67,
-        4.05,
-        43,
-        0.147
-      ]
-    },
-    {
-      "tensor_coord": "86ba2064fffffff:CRUST_SHALLOW:2026-11-26T02:00:00Z",
-      "h3_index": "86ba2064fffffff",
-      "resolution": 6,
-      "latitude": -35.934,
-      "longitude": 178.26,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T02:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 5.0,
-      "content_hash": "d2301bdc0434cb91d32592705ee0363fa687885482644d0bb8c307b73fdd8a88",
-      "observed_at_utc": "2026-11-26T02:09:17.972000+00:00",
-      "feature_vector": [
-        5.0,
-        10.0,
-        385,
-        0.87
-      ]
-    },
-    {
-      "tensor_coord": "8629a6b47ffffff:CRUST_MID:2026-11-26T02:00:00Z",
-      "h3_index": "8629a6b47ffffff",
-      "resolution": 6,
-      "latitude": 33.2185,
-      "longitude": -116.7388,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T02:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.9,
-      "content_hash": "17bb0fa955fb784a37390a63b56524c5b60637c0577a5de826f16c95236e36a9",
-      "observed_at_utc": "2026-11-26T02:09:07.010000+00:00",
-      "feature_vector": [
-        0.9,
-        20.57,
-        12,
-        0.17
-      ]
-    },
-    {
-      "tensor_coord": "860cec217ffffff:CRUST_SHALLOW:2026-11-26T01:00:00Z",
-      "h3_index": "860cec217ffffff",
-      "resolution": 6,
-      "latitude": 58.3747,
-      "longitude": -154.6468,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": -0.04,
-      "content_hash": "0192084a7571f558100dbdd0f65f7685488cd39dd619a5494ea6fc8722c4412e",
-      "observed_at_utc": "2026-11-26T01:55:02.140000+00:00",
-      "feature_vector": [
-        -0.04,
-        6.18,
-        0,
-        0.25
-      ]
-    },
-    {
-      "tensor_coord": "860c68857ffffff:CRUST_SHALLOW:2026-11-26T01:00:00Z",
-      "h3_index": "860c68857ffffff",
-      "resolution": 6,
-      "latitude": 60.203,
-      "longitude": -141.267,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "ice quake",
-      "magnitude": 1.8,
-      "content_hash": "5d9a5245169a3e514bd0694011fd9d8801c6661749bda920f209ae3b376f0429",
-      "observed_at_utc": "2026-11-26T01:49:32.301000+00:00",
-      "feature_vector": [
-        1.8,
-        0.0,
-        50,
-        0.5
-      ]
-    },
-    {
-      "tensor_coord": "86ba20687ffffff:CRUST_MID:2026-11-26T01:00:00Z",
-      "h3_index": "86ba20687ffffff",
-      "resolution": 6,
-      "latitude": -35.9665,
-      "longitude": 178.6429,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 5.2,
-      "content_hash": "600607581a87e88ef3c34153383e159f24ca1bca80743077cdd4cd85dba560e8",
-      "observed_at_utc": "2026-11-26T01:48:44.213000+00:00",
-      "feature_vector": [
-        5.2,
-        12.69,
-        416,
-        1.09
-      ]
-    },
-    {
-      "tensor_coord": "869b5521fffffff:MANTLE_DEEP:2026-11-26T01:00:00Z",
-      "h3_index": "869b5521fffffff",
-      "resolution": 6,
-      "latitude": -17.9154,
-      "longitude": -178.5923,
-      "depth_altitude_layer": "MANTLE_DEEP",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 4.4,
-      "content_hash": "45c28410438638035c019682a7b37c01ae918407162776c6c02cf488817a421d",
-      "observed_at_utc": "2026-11-26T01:23:45.826000+00:00",
-      "feature_vector": [
-        4.4,
-        584.49,
-        298,
-        0.65
-      ]
-    },
-    {
-      "tensor_coord": "860c549a7ffffff:CRUST_MID:2026-11-26T01:00:00Z",
-      "h3_index": "860c549a7ffffff",
-      "resolution": 6,
-      "latitude": 61.5277,
-      "longitude": -151.8548,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.09,
-      "content_hash": "84f76fb697506c70ed1f2f510efe90700fac30adca94dd43b436be174d050b50",
-      "observed_at_utc": "2026-11-26T01:22:06.290000+00:00",
-      "feature_vector": [
-        0.09,
-        12.34,
-        0,
-        0.22
-      ]
-    },
-    {
-      "tensor_coord": "862834337ffffff:CRUST_MID:2026-11-26T01:00:00Z",
-      "h3_index": "862834337ffffff",
-      "resolution": 6,
-      "latitude": 37.203,
-      "longitude": -122.4587,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.19,
-      "content_hash": "b4bec136b4f78d28fd2729596d709254b275ec137f01e01d24d635c31efaeeaa",
-      "observed_at_utc": "2026-11-26T01:20:41.750000+00:00",
-      "feature_vector": [
-        2.19,
-        11.44,
-        74,
-        0.07
-      ]
-    },
-    {
-      "tensor_coord": "860c51987ffffff:CRUST_MID:2026-11-26T01:00:00Z",
-      "h3_index": "860c51987ffffff",
-      "resolution": 6,
-      "latitude": 59.92,
-      "longitude": -150.87,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.0,
-      "content_hash": "11a3bb5a955e5e8af0b4568b2a5afeb230001e559a4f8249849d2cdc88dc834d",
-      "observed_at_utc": "2026-11-26T01:17:46.352000+00:00",
-      "feature_vector": [
-        2.0,
-        49.3,
-        62,
-        0.5
-      ]
-    },
-    {
-      "tensor_coord": "86488b06fffffff:CRUST_SHALLOW:2026-11-26T01:00:00Z",
-      "h3_index": "86488b06fffffff",
-      "resolution": 6,
-      "latitude": 31.77,
-      "longitude": -102.014,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.9,
-      "content_hash": "498a9fce224a4e1c79a8d85dae09b3022ae9432f3bf4a0f1faa7eb48cc28738b",
-      "observed_at_utc": "2026-11-26T01:13:29.781000+00:00",
-      "feature_vector": [
-        0.9,
-        5.25,
-        12,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "860c5e237ffffff:CRUST_MID:2026-11-26T01:00:00Z",
-      "h3_index": "860c5e237ffffff",
-      "resolution": 6,
-      "latitude": 58.252,
-      "longitude": -151.287,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.5,
-      "content_hash": "7eba1658e99af7408279773f5e76dc6303b2ebeba6f409d6d1c5d4e46dacc467",
-      "observed_at_utc": "2026-11-26T01:12:27.123000+00:00",
-      "feature_vector": [
-        2.5,
-        20.4,
-        96,
-        0.4
-      ]
-    },
-    {
-      "tensor_coord": "86298d44fffffff:CRUST_SHALLOW:2026-11-26T01:00:00Z",
-      "h3_index": "86298d44fffffff",
-      "resolution": 6,
-      "latitude": 38.5921,
-      "longitude": -119.4448,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.98,
-      "content_hash": "e6ac04ba42202f8c375630a3bff95282cc43a416c9dc5f4f0352a8735ab65bb2",
-      "observed_at_utc": "2026-11-26T01:12:19.150000+00:00",
-      "feature_vector": [
-        2.98,
-        5.18,
-        137,
-        0.08
-      ]
-    },
-    {
-      "tensor_coord": "8629a0db7ffffff:CRUST_SHALLOW:2026-11-26T01:00:00Z",
-      "h3_index": "8629a0db7ffffff",
-      "resolution": 6,
-      "latitude": 33.5405,
-      "longitude": -116.7028,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.63,
-      "content_hash": "a2337160e6ad6e94bd78614c54fb5cb5d47529ceca7bc168d1a90378e50c974a",
-      "observed_at_utc": "2026-11-26T01:05:58.790000+00:00",
-      "feature_vector": [
-        0.63,
-        5.94,
-        6,
-        0.09
-      ]
-    },
-    {
-      "tensor_coord": "860c5470fffffff:MANTLE_TRANSITION:2026-11-26T01:00:00Z",
-      "h3_index": "860c5470fffffff",
-      "resolution": 6,
-      "latitude": 60.818,
-      "longitude": -152.421,
-      "depth_altitude_layer": "MANTLE_TRANSITION",
-      "time_bucket_utc": "2026-11-26T01:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.7,
-      "content_hash": "e152239ce7ef41ca9082297cef6e1eb6811856a92b1cef91d438b0a440298394",
-      "observed_at_utc": "2026-11-26T01:00:20.131000+00:00",
-      "feature_vector": [
-        1.7,
-        109.3,
-        44,
-        0.3
-      ]
-    },
-    {
-      "tensor_coord": "8648d6867ffffff:CRUST_SHALLOW:2026-11-26T00:00:00Z",
-      "h3_index": "8648d6867ffffff",
-      "resolution": 6,
-      "latitude": 32.017,
-      "longitude": -103.288,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T00:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.0,
-      "content_hash": "0000b838662a5ee00fe44ea996dd741ac67dcd90111abbd6f919a90d6ae7868a",
-      "observed_at_utc": "2026-11-26T00:56:23.452000+00:00",
-      "feature_vector": [
-        1.0,
-        6.38,
-        15,
-        0.2
-      ]
-    },
-    {
-      "tensor_coord": "865d1391fffffff:CRUST_SHALLOW:2026-11-26T00:00:00Z",
-      "h3_index": "865d1391fffffff",
-      "resolution": 6,
-      "latitude": 19.4643,
-      "longitude": -155.4332,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-26T00:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 1.88,
-      "content_hash": "d4a0a4386301d4aa71fba1647fbb138d8b0af615982aa45991b91909f24b77dc",
-      "observed_at_utc": "2026-11-26T00:53:07.820000+00:00",
-      "feature_vector": [
-        1.88,
-        2.29,
-        54,
-        0.13
-      ]
-    },
-    {
-      "tensor_coord": "864ce1277ffffff:CRUST_MID:2026-11-26T00:00:00Z",
-      "h3_index": "864ce1277ffffff",
-      "resolution": 6,
-      "latitude": 19.3623,
-      "longitude": -65.4307,
-      "depth_altitude_layer": "CRUST_MID",
-      "time_bucket_utc": "2026-11-26T00:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 3.39,
-      "content_hash": "a247d007e3c02fa06a5c9ac34d2ec1db5955e7291885b81cd0e605d9ce7733eb",
-      "observed_at_utc": "2026-11-26T00:50:01.330000+00:00",
-      "feature_vector": [
-        3.39,
-        10.09,
-        177,
-        0.26
-      ]
-    },
-    {
-      "tensor_coord": "860c53407ffffff:MANTLE_TRANSITION:2026-11-26T00:00:00Z",
-      "h3_index": "860c53407ffffff",
-      "resolution": 6,
-      "latitude": 59.084,
-      "longitude": -153.707,
-      "depth_altitude_layer": "MANTLE_TRANSITION",
-      "time_bucket_utc": "2026-11-26T00:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 2.2,
-      "content_hash": "2ab4fece554169462da0e16198e009f5f2b7a9f56946b18833dcaaa7f1c72836",
-      "observed_at_utc": "2026-11-26T00:43:18.949000+00:00",
-      "feature_vector": [
-        2.2,
-        104.8,
-        74,
-        0.4
       ]
     },
     {
@@ -61413,25 +60881,6 @@
       ]
     },
     {
-      "tensor_coord": "8629a6b8fffffff:CRUST_SHALLOW:2026-11-09T14:00:00Z",
-      "h3_index": "8629a6b8fffffff",
-      "resolution": 6,
-      "latitude": 33.2707,
-      "longitude": -116.4233,
-      "depth_altitude_layer": "CRUST_SHALLOW",
-      "time_bucket_utc": "2026-11-09T14:00:00Z",
-      "event_type": "earthquake",
-      "magnitude": 0.59,
-      "content_hash": "471857c10a74dd3b380550f6803ab57e662838d113e9419006d92a0f2df84acc",
-      "observed_at_utc": "2026-11-09T14:47:02.480000+00:00",
-      "feature_vector": [
-        0.59,
-        5.14,
-        5,
-        0.15
-      ]
-    },
-    {
       "tensor_coord": "8629a6b87ffffff:CRUST_SHALLOW:2026-11-09T14:00:00Z",
       "h3_index": "8629a6b87ffffff",
       "resolution": 6,
@@ -61448,6 +60897,25 @@
         4.74,
         5,
         0.19
+      ]
+    },
+    {
+      "tensor_coord": "8629a6b8fffffff:CRUST_SHALLOW:2026-11-09T14:00:00Z",
+      "h3_index": "8629a6b8fffffff",
+      "resolution": 6,
+      "latitude": 33.2707,
+      "longitude": -116.4233,
+      "depth_altitude_layer": "CRUST_SHALLOW",
+      "time_bucket_utc": "2026-11-09T14:00:00Z",
+      "event_type": "earthquake",
+      "magnitude": 0.59,
+      "content_hash": "471857c10a74dd3b380550f6803ab57e662838d113e9419006d92a0f2df84acc",
+      "observed_at_utc": "2026-11-09T14:47:02.480000+00:00",
+      "feature_vector": [
+        0.59,
+        5.14,
+        5,
+        0.15
       ]
     },
     {
